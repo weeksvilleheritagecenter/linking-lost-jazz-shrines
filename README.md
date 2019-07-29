@@ -1,2 +1,16 @@
-# linking-lost-jazz-shrines
-Documentation and data for the Collections as Data "Linking Lost Jazz Shrines" project
+# Linking Lost Jazz Shrines
+
+## About the Repository<br>
+This repository holds the documentation and data for [Weeksville Heritage Center's](https://www.weeksvillesociety.org/) "Linking Lost Jazz Shrines" project, supported through the [Collections as Data](https://collectionsasdata.github.io/part2whole/) initiative, which is supported by the [Andrew W. Mellon Foundation](https://collectionsasdata.github.io/part2whole/mellon/). The Linking Lost Jazz Shrines project is a collaboration between Weeksville Heritage Center and the [Semantic Lab at Pratt](https://semlab.io/).
+
+## About the Project<br>
+The Linking Jazz Shrines Project seeks to apply linked open data principles to the Weeksville Heritage Center's Lost Jazz Shrines of Brooklyn Oral history collection. This collection was part of a 2008 research project documenting Central Brooklyn’s cultural legacy of jazz history between the 1930s and 1960s. Through the application linked open data methodologies, we plan to make these collections and the connections they provide more discoverable to jazz researchers that would benefit from a significant collection about Central Brooklyn’s nearly lost jazz culture.
+
+## The Team<br>
+**Obden Mondesir** (Senior Administrator) Obden is the Oral History Project Manager at the Weeksville Heritage and is responsible for public training, oral history collecting and processing of new collections, and educational outreach and public programming. In 2017 he conducted interviews with long time Crown Heights residents for the [Voices of Crown Heights Oral History Project](https://oralhistory.brooklynhistory.org/collections/voices-of-crown-heights-oral-histories/). Obden teaches and develops curriculum on Public history and Community Archives.<br>
+
+**Zakiya Collier** (Project Lead) Zakiya is a dual-degree student pursuing a Master’s of Media, Culture, and Communication at New York University and a Master’s of Library and Information Science with a Certificate in Archives and Records Management at Long Island University, both expected in January 2019. Interfacing cultural and information studies, her research and writing draws on black studies scholarship to interrogate the archives’ historically exclusionary relationship with communities of color, and study the self-curated, collaborative, digital archival practices that have developed in resistance to that antagonistic relationship. Zakiya currently works as an Archives Processing Fellow at Barnard College and a Project Archivist at the Weeksville Heritage Center where she is working on projects involving African-American legacies, digital heritage, and cultural memory.<br>
+
+**Cristina Pattuelli** (Disciplinary Scholar) is a professor at Pratt Institute, the School of Information and a co-director of the [Semantic Lab at Pratt](http://semlab.io/), a research group that focuses on the development of novel methodologies and tools for the application of semantic technologies to libraries, archives and museums. Cristina also founded the [Linked Jazz Project](https://linkedjazz.org/), a research project investigating the application of Linked Open Data technologies to digital cultural heritage materials.  at Pratt Institute and is the founder of the Linked Jazz Project and Co-director of the Semantics Lab at Pratt.
+
+**Sarah Ann Adams** (Linked Data Consultant) Sarah is a researcher for the [Semantic Lab at Pratt](http://semlab.io/) and a recent graduate of Pratt Institute, School of Information. Sarah’s academic focus is knowledge organization, information management, and linked data.
