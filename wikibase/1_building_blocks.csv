@@ -1,6 +1,8 @@
 batch, admin sort,label,class / instance,QID or PID,date added,method
+0,0,person,class,Q1,1/1/2020,manual
 1,1,music group,class,Q18805,3/31/2020,manual
 1,2,music venue,class,Q18806,3/31/2020,manual
 1,3,Linking Lost Jazz Shrines,instance,Q18807,3/31/2020,manual
 1,4,Brooklyn,instance,Q18808,3/31/2020,manual
-1,5,borough,class,Q18809,3/31/2020,manual
+1,5,borough,instance,Q18809,3/31/2020,manual
+1,6,project,class,Q19064,4/14/2020,manual
