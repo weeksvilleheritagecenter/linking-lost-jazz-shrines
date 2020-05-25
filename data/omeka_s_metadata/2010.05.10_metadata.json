@@ -1,0 +1,620 @@
+﻿{
+  "@context": "http://whcarchives.org/api-context",
+  "@id": "http://whcarchives.org/api/items/825",
+  "@type": [
+    "o:Item",
+    "oc:OralHistory"
+  ],
+  "o:id": 825,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://whcarchives.org/api/users/4",
+    "o:id": 4
+  },
+  "o:resource_class": {
+    "@id": "http://whcarchives.org/api/resource_classes/106",
+    "o:id": 106
+  },
+  "o:resource_template": {
+    "@id": "http://whcarchives.org/api/resource_templates/4",
+    "o:id": 4
+  },
+  "o:thumbnail": null,
+  "o:title": "Tulivu-Donna Cumberbatch",
+  "o:created": {
+    "@value": "2020-03-26T01:20:00+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2020-05-18T01:42:01+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [
+    {
+      "@id": "http://whcarchives.org/api/item_sets/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Tulivu-Donna Cumberbatch",
+      "@language": "en"
+    }
+  ],
+  "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "literal",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu-Donna Cumberbatch"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "July 14, 2010",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2010.05.10"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "English",
+      "@language": "en"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18812",
+      "o:label": "Brooklyn Repertory Ensemble"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q657",
+      "o:label": "Randy Weston"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q66",
+      "o:label": "Max Roach"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19011",
+      "o:label": "Ray Abrams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q43",
+      "o:label": "Billie Holiday"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q85",
+      "o:label": "Nancy Wilson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q35",
+      "o:label": "Dizzy Gillespie"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18871",
+      "o:label": "Putnam Central"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q24",
+      "o:label": "Coleman Hawkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q831",
+      "o:label": "Arnett Cobb"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18931",
+      "o:label": "Cecil Payne"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q12",
+      "o:label": "Lester Young"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q13",
+      "o:label": "Charlie Parker"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1909",
+      "o:label": "Rahsaan Roland Kirk"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q200",
+      "o:label": "McCoy Tyner"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18860",
+      "o:label": "Kingston Lounge"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18916",
+      "o:label": "Andre Strobert"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1098",
+      "o:label": "Wynton Kelly"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19008",
+      "o:label": "Rafik Williamson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18941",
+      "o:label": "Ed Stoute"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu-Donna Cumberbatch"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18953",
+      "o:label": "Harold Cumberbatch"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q39",
+      "o:label": "Lionel Hampton"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q72",
+      "o:label": "Count Basie"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18943",
+      "o:label": "Ernie Henry"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q101",
+      "o:label": "Louis Armstrong"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18834",
+      "o:label": "The Blue Coronet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18881",
+      "o:label": "Sonia Ballroom (Akbar Hall)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18908",
+      "o:label": "West End Cafe"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18823",
+      "o:label": "Swing to Bop Quintet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q25",
+      "o:label": "Nat King Cole"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q346",
+      "o:label": "Frank Sinatra"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q93",
+      "o:label": "Sarah Vaughan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q127",
+      "o:label": "Ella Fitzgerald"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q566",
+      "o:label": "Carmen McRae"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18810",
+      "o:label": "All-City Chorus"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18885",
+      "o:label": "The East"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19009",
+      "o:label": "Rashim"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19001",
+      "o:label": "Onaje Allan Gumbs"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18925",
+      "o:label": "Buddy Williams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18819",
+      "o:label": "Ray Abrams Big Band"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18811",
+      "o:label": "Baritone Saxophones"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18876",
+      "o:label": "Sista's Place"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18853",
+      "o:label": "The Flamingo Lounge"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19042",
+      "o:label": "Yoko Kanno"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19034",
+      "o:label": "Wade E. Barnes"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q41",
+      "o:label": "Miles Davis"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18959",
+      "o:label": "Jean Cam"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n82238130",
+      "o:label": "Brownsville (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/no2004003283",
+      "o:label": "Erasmus Hall High School"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/n80060429",
+      "o:label": "Hunter College"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Metropolitan High School",
+      "@language": "en"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Our Lady of Victory Elementary School",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n91082771",
+      "o:label": "Bedford-Stuyvesant (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069833",
+      "o:label": "Jazz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069835",
+      "o:label": "Jazz musicians"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh2001006683",
+      "o:label": "African American jazz musicians"
+    }
+  ],
+  "bibo:interviewer": [
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    }
+  ],
+  "bibo:interviewee": [
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu-Donna Cumberbatch"
+    }
+  ],
+  "oc:location": [
+    {
+      "type": "literal",
+      "property_id": 191,
+      "property_label": "Location",
+      "is_public": true,
+      "@value": "Tulivu-Donna Cumberbatch's home",
+      "@language": "en"
+    }
+  ]
+}
