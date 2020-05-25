@@ -1,0 +1,476 @@
+﻿{
+  "@context": "http://whcarchives.org/api-context",
+  "@id": "http://whcarchives.org/api/items/827",
+  "@type": [
+    "o:Item",
+    "oc:OralHistory"
+  ],
+  "o:id": 827,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://whcarchives.org/api/users/4",
+    "o:id": 4
+  },
+  "o:resource_class": {
+    "@id": "http://whcarchives.org/api/resource_classes/106",
+    "o:id": 106
+  },
+  "o:resource_template": {
+    "@id": "http://whcarchives.org/api/resource_templates/4",
+    "o:id": 4
+  },
+  "o:thumbnail": null,
+  "o:title": "James Spaulding",
+  "o:created": {
+    "@value": "2020-03-26T01:32:16+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2020-05-18T00:52:06+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [
+    {
+      "@id": "http://whcarchives.org/api/item_sets/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "James Spaulding",
+      "@language": "en"
+    }
+  ],
+  "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18975",
+      "o:label": "Kaitlyn Greenridge"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18962",
+      "o:label": "Jean Spaulding"
+    },
+    {
+      "type": "literal",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18957",
+      "o:label": "James Spaulding"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "September 2010",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2010.05.15"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "English",
+      "@language": "en"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18957",
+      "o:label": "James Spaulding"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18834",
+      "o:label": "The Blue Coronet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18884",
+      "o:label": "The Continental"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1381",
+      "o:label": "Cassandra Wilson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18888",
+      "o:label": "The Happy Landing"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q746",
+      "o:label": "Joe Louis"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18929",
+      "o:label": "Carlos Garnett"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q934",
+      "o:label": "Freddie Hubbard"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q117",
+      "o:label": "Dexter Gordon"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q959",
+      "o:label": "Lee Morgan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1090",
+      "o:label": "J.J. Johnson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18885",
+      "o:label": "The East"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q448",
+      "o:label": "Sonny Stitt"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18830",
+      "o:label": "Baby Grand Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18847",
+      "o:label": "Club La Marchal"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q281",
+      "o:label": "Art Blakey"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19002",
+      "o:label": "Orville O'Brien"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18954",
+      "o:label": "Harold Mabern"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18922",
+      "o:label": "Bob Cunningham"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q468",
+      "o:label": "Lenny White"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18997",
+      "o:label": "Michael Ridley"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18981",
+      "o:label": "Larry Ridley"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q657",
+      "o:label": "Randy Weston"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q66",
+      "o:label": "Max Roach"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18967",
+      "o:label": "Jitu Weusi"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18903",
+      "o:label": "Up Over Jazz Café"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18876",
+      "o:label": "Sista's Place"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/n50038518",
+      "o:label": "Clarke, John Henrik, 1915-1998"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n79084324",
+      "o:label": "King, Martin Luther, Jr., 1929-1968"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/n81047346",
+      "o:label": "Queens (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n85353652",
+      "o:label": "Livingston College"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "The Night of the Cookers (performance)",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n91082771",
+      "o:label": "Bedford-Stuyvesant (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069833",
+      "o:label": "Jazz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069835",
+      "o:label": "Jazz musicians"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh2001006683",
+      "o:label": "African American jazz musicians"
+    }
+  ],
+  "bibo:interviewer": [
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    }
+  ],
+  "bibo:interviewee": [
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18957",
+      "o:label": "James Spaulding"
+    }
+  ],
+  "oc:location": [
+    {
+      "type": "literal",
+      "property_id": 191,
+      "property_label": "Location",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ]
+}
