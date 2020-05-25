@@ -1,0 +1,852 @@
+﻿{
+  "@context": "http://whcarchives.org/api-context",
+  "@id": "http://whcarchives.org/api/items/824",
+  "@type": [
+    "o:Item",
+    "oc:OralHistory"
+  ],
+  "o:id": 824,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://whcarchives.org/api/users/4",
+    "o:id": 4
+  },
+  "o:resource_class": {
+    "@id": "http://whcarchives.org/api/resource_classes/106",
+    "o:id": 106
+  },
+  "o:resource_template": {
+    "@id": "http://whcarchives.org/api/resource_templates/4",
+    "o:id": 4
+  },
+  "o:thumbnail": null,
+  "o:title": "Larry Ridley and Harold Mabern",
+  "o:created": {
+    "@value": "2020-03-26T01:17:28+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2020-05-18T00:49:05+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [],
+  "o:item_set": [
+    {
+      "@id": "http://whcarchives.org/api/item_sets/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Larry Ridley and Harold Mabern",
+      "@language": "en"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Larry Ridley (bassist)/Harold Mabern (piano and Brooklyn resident); members of the Freddie Hubbard Quintet for the famed “The Night of the Cookers” recording session made at Brooklyn’s Club La Marchal and subsequently released by Blue Note Records.",
+      "@language": "en"
+    }
+  ],
+  "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "literal",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18981",
+      "o:label": "Larry Ridley"
+    },
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18954",
+      "o:label": "Harold Mabern"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "April 5, 2010",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2010.05.05"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "English",
+      "@language": "en"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18954",
+      "o:label": "Harold Mabern"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q501",
+      "o:label": "George Coleman"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q436",
+      "o:label": "Frank Strozier"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1423",
+      "o:label": "Booker Little"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19036",
+      "o:label": "Walter Perkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q794",
+      "o:label": "Bob Cranshaw"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19040",
+      "o:label": "Willie Thomas"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19006",
+      "o:label": "Paul Serrano"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18817",
+      "o:label": "MJT+3"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18998",
+      "o:label": "Muhal Richard Abrams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18914",
+      "o:label": "Al Plank"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18981",
+      "o:label": "Larry Ridley"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q934",
+      "o:label": "Freddie Hubbard"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18957",
+      "o:label": "Jimmy Spaulding"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q347",
+      "o:label": "Eubie Blake"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18992",
+      "o:label": "Mel Rhyne"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19005",
+      "o:label": "Paul Parker"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1121",
+      "o:label": "Percy Heath"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q66",
+      "o:label": "Max Roach"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18918",
+      "o:label": "Ben Holliman"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19033",
+      "o:label": "Virgil Jones"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19035",
+      "o:label": "Walt Miller"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18814",
+      "o:label": "The Jazz Contemporaries"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18822",
+      "o:label": "Slide Hampton Octet\t"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18833",
+      "o:label": "Birdland"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q959",
+      "o:label": "Lee Morgan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1737",
+      "o:label": "Lou Donaldson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q661",
+      "o:label": "Art Farmer"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1365",
+      "o:label": "Cedar Walton"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19007",
+      "o:label": "Pete LaRoca"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18933",
+      "o:label": "Clifford Jarvis"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18986",
+      "o:label": "Louis Hayes"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q663",
+      "o:label": "Slide Hampton"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18855",
+      "o:label": "Half Note"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q447",
+      "o:label": "Philly Joe Jones"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q365",
+      "o:label": "Jackie McLean"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q819",
+      "o:label": "Blue Mitchell"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18901",
+      "o:label": "Turbo Village"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18834",
+      "o:label": "The Blue Coronet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q117",
+      "o:label": "Dexter Gordon"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q471",
+      "o:label": "Andrew Cyrille"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1009",
+      "o:label": "Barry Harris"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q20",
+      "o:label": "Tony Williams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19026",
+      "o:label": "Tommy Williams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19012",
+      "o:label": "Rector Bailey"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18830",
+      "o:label": "Baby Grand Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18847",
+      "o:label": "Club La Marchal"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q657",
+      "o:label": "Randy Weston"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1953",
+      "o:label": "Booker Ervin"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19022",
+      "o:label": "Scoby Stroman"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18846",
+      "o:label": "Club Baron"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18845",
+      "o:label": "Club 845"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q72",
+      "o:label": "Count Basie"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q281",
+      "o:label": "Art Blakey"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q898",
+      "o:label": "Tommy Flanagan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q295",
+      "o:label": "Benny Golson\t"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q41",
+      "o:label": "Miles Davis"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q45",
+      "o:label": "Ron Carter"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q924",
+      "o:label": "Jimmy Cobb"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q102",
+      "o:label": "Betty Carter"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1090",
+      "o:label": "J.J. Johnson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q39",
+      "o:label": "Lionel Hampton"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q777",
+      "o:label": "Cannonball Adderley"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1999",
+      "o:label": "Pee Wee Marquette"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q979",
+      "o:label": "Harry “Sweets” Edison"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18826",
+      "o:label": "The Jazztet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18820",
+      "o:label": "Roy Haynes Quartet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q294",
+      "o:label": "Rudy Van Gelder"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18867",
+      "o:label": "Palladium"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18967",
+      "o:label": "Jitu Weusi"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18964",
+      "o:label": "Jim Harrison"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18999",
+      "o:label": "Nat White"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18917",
+      "o:label": "Armando Peraza"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q165",
+      "o:label": "Tito Puente"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q192",
+      "o:label": "Machito"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q944",
+      "o:label": "Hank Mobley"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n78086438",
+      "o:label": "Chicago (Ill.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n79007751",
+      "o:label": "New York (N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/n79055094",
+      "o:label": "Indianapolis (Ind.)"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "The Night of the Cookers (performance)",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n91082771",
+      "o:label": "Bedford-Stuyvesant (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069833",
+      "o:label": "Jazz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069835",
+      "o:label": "Jazz musicians"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh2001006683",
+      "o:label": "African American jazz musicians"
+    }
+  ],
+  "bibo:interviewer": [
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    }
+  ],
+  "bibo:interviewee": [
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18981",
+      "o:label": "Larry Ridley"
+    },
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18954",
+      "o:label": "Harold Mabern"
+    }
+  ]
+}

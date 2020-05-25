@@ -1,0 +1,479 @@
+﻿{
+  "@context": "http://whcarchives.org/api-context",
+  "@id": "http://whcarchives.org/api/items/510",
+  "@type": [
+    "o:Item",
+    "oc:OralHistory"
+  ],
+  "o:id": 510,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://whcarchives.org/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://whcarchives.org/api/resource_classes/106",
+    "o:id": 106
+  },
+  "o:resource_template": {
+    "@id": "http://whcarchives.org/api/resource_templates/4",
+    "o:id": 4
+  },
+  "o:thumbnail": null,
+  "o:title": "JoAnn Cheatham",
+  "o:created": {
+    "@value": "2019-09-16T19:49:17+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2020-05-18T00:53:15+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [
+    {
+      "@id": "http://whcarchives.org/api/media/690",
+      "o:id": 690
+    },
+    {
+      "@id": "http://whcarchives.org/api/media/691",
+      "o:id": 691
+    },
+    {
+      "@id": "http://whcarchives.org/api/media/692",
+      "o:id": 692
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://whcarchives.org/api/item_sets/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "JoAnn Cheatham",
+      "@language": "en"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Jo Ann Cheatham narrates her entrance into the world of jazz music and culture. She talks about her memories of the mid-1990s Brooklyn jazz events. Through her work as a counselor for the New York City Public Schools, she met C. Scoby Stroman who took her to various jazz scenes and introduced her to prominent musicians at the time. In particular, Cheatham recalls going to Jazz 966 and the Flamingo Lounge. She became a photographer for Jazz 966 and through her photography met more artists. \n\nShe acknowledges that she began to advocate for jazz because of C. Scoby Stroman. Cheatham speaks about her work at SOFOCUS (Society of Folks Called Us), an organization started by Stroman, who passed away. Cheatham revitalized the organization by giving musical presentations for three or four years. \n\nShe remembers her experience at The East and the significance it had as a performance space for musicians and the audience. Cheatham also recalls the various artists she had encountered at The East. Drawing on her experience attending both Brooklyn and Manhattan jazz events, she shares her perspectives on the differences between the borough’s jazz cultures, etiquettes, and audiences. She compares Brooklyn jazz scenes such as Brownies, Slugs, Blue Coronet, Arlington Inn, Akbar Hall, Sista’s Place, Tony’s Grand & Dean to places in Manhattan such as the Blue Note, Baby Grand , St. Nick’s Pub, the Birdland, Jazz Standard, Dizzy’s, Lennox Lounge. \n\nCheatham talks about Jazz A Woman’s Viewpoint and her Pure Jazz Magazine, which came out of the development of the Central Brooklyn Jazz Coalition. She speaks of Roslyn Blair who found that the International Women in Jazz was elitist without an African American representation. Blair created talks and panels to highlight women, “the grassroots people” who experienced jazz. In Pure Jazz Magazine, Cheatham likewise highlights the work of women behind the scenes of jazz music. She talks about the development of the Pure Jazz Magazine as coming out from her prior experience of publishing the Teen Lines, being a historian at heart, working at Weeksville, and wanting to create a different kind of jazz literary magazine.  \n",
+      "@language": "en"
+    }
+  ],
+  "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18975",
+      "o:label": "Kaitlyn Greenidge"
+    }
+  ],
+  "dcterms:coverage": [
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "1990s",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn, N.Y."
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18968",
+      "o:label": "JoAnn Cheatham"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "April 16, 2010",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2010.05.06"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "English",
+      "@language": "en"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18881",
+      "o:label": "Sonya Ballroom"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18828",
+      "o:label": "Arlington Inn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18830",
+      "o:label": "Baby Grand Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18833",
+      "o:label": "Birdland (52nd Street)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19020",
+      "o:label": "Rosalind Blair"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18834",
+      "o:label": "Blue Coronet"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18835",
+      "o:label": "Blue Note"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Brooklyn’s Jazz scene c. 1990s",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18840",
+      "o:label": "Brownies"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Central Brooklyn Jazz Coalition",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18850",
+      "o:label": "Dizzy's Club"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18853",
+      "o:label": "Flamingo Lounge"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "International Women in Jazz",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18857",
+      "o:label": "Jazz 966"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Jazz advocacy",
+      "@language": "en"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Jazz A Woman’s Viewpoint",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18816",
+      "o:label": "Jazz Standard"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18861",
+      "o:label": "Lennox Lounge"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Pure Jazz Magazine",
+      "@language": "en"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Teen Lines Magazine",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18898",
+      "o:label": "Tony's Grand Dean"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18876",
+      "o:label": "Sista’s Place"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18878",
+      "o:label": "Slug's"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "SOFOCUS (Society of Folks Called Us)",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18882",
+      "o:label": "St. Nick’s Pub"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19022",
+      "o:label": "Scoby Stroman"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18885",
+      "o:label": "The East"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n91082771",
+      "o:label": "Bedford-Stuyvesant (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069833",
+      "o:label": "Jazz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069835",
+      "o:label": "Jazz musicians"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh2001006683",
+      "o:label": "African American jazz musicians"
+    }
+  ],
+  "bibo:interviewer": [
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18975",
+      "o:label": "Kaitlyn Greenidge"
+    }
+  ],
+  "bibo:interviewee": [
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18968",
+      "o:label": "JoAnn Cheatham"
+    }
+  ],
+  "oc:location": [
+    {
+      "type": "literal",
+      "property_id": 191,
+      "property_label": "Location",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "oc:duration": [
+    {
+      "type": "literal",
+      "property_id": 188,
+      "property_label": "Duration",
+      "is_public": true,
+      "@value": "59 minutes",
+      "@language": "en"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+﻿{
+  "@context": "http://whcarchives.org/api-context",
+  "@id": "http://whcarchives.org/api/items/517",
+  "@type": [
+    "o:Item",
+    "oc:OralHistory"
+  ],
+  "o:id": 517,
+  "o:is_public": true,
+  "o:owner": {
+    "@id": "http://whcarchives.org/api/users/1",
+    "o:id": 1
+  },
+  "o:resource_class": {
+    "@id": "http://whcarchives.org/api/resource_classes/106",
+    "o:id": 106
+  },
+  "o:resource_template": {
+    "@id": "http://whcarchives.org/api/resource_templates/4",
+    "o:id": 4
+  },
+  "o:thumbnail": null,
+  "o:title": "Jitu Weusi",
+  "o:created": {
+    "@value": "2019-09-16T19:50:00+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:modified": {
+    "@value": "2020-05-18T02:03:05+00:00",
+    "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
+  },
+  "o:media": [
+    {
+      "@id": "http://whcarchives.org/api/media/708",
+      "o:id": 708
+    },
+    {
+      "@id": "http://whcarchives.org/api/media/709",
+      "o:id": 709
+    },
+    {
+      "@id": "http://whcarchives.org/api/media/710",
+      "o:id": 710
+    }
+  ],
+  "o:item_set": [
+    {
+      "@id": "http://whcarchives.org/api/item_sets/5",
+      "o:id": 5
+    }
+  ],
+  "dcterms:title": [
+    {
+      "type": "literal",
+      "property_id": 1,
+      "property_label": "Title",
+      "is_public": true,
+      "@value": "Jitu Weusi",
+      "@language": "en"
+    }
+  ],
+  "dcterms:description": [
+    {
+      "type": "literal",
+      "property_id": 4,
+      "property_label": "Description",
+      "is_public": true,
+      "@value": "Jitu Weusi is born and raised in Brooklyn, New York.  From a large family, he began selling newspapers with his cousins, Charles & Leroy Morris, at their newsstand, at the intersection of Franklin & Fulton. As he was working, he was introduced to a few jazz and jazz musicians  through the outdoor speakers of Sam the Record Man, a record store just across the street from the newsstand.\n\nAs a teenager, he would spend time at Brankers, a jazz bar on 155th and 7th, to the wee hours of the morning.He worked as a waiter at Village Gate, where he was introduced to Nina Simone and Thelonius Monk.\nHis cousins frequented the Putnam Central Club, and The Kingston Lounge, the Continental and the Blue Coronet.\n\nHe attended Long Island University, and became a teacher in September 1962. In the mid-sixties, he became involved in political activities, and in 1968, he and other founded the African American Student Association. It was there that he was encouraged by his students to form their own cultural center.  \n\nThe East was centered around non-western ideologies, and was primarily an all black institutions. \n\nA formal extension of the East - the Uhuru Sasa School, was subsidized by profits made by musicians. They hired a cook. Ms. Lottie Brown, who contributed to The East’s reputation and budget. From 1970-77 the East thrived, and eventually Weusi  & the East went on to form the International African Art Festival, and he was instrumental in the formation of the Central Brooklyn Jazz Consortium.\n",
+      "@language": "en"
+    }
+  ],
+  "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    },
+    {
+      "type": "literal",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:coverage": [
+    {
+      "type": "literal",
+      "property_id": 14,
+      "property_label": "Coverage",
+      "is_public": true,
+      "@value": "[1950s-1990s, 2010]",
+      "@language": "en"
+    }
+  ],
+  "dcterms:creator": [
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18967",
+      "o:label": "Jitu Weusi"
+    }
+  ],
+  "dcterms:date": [
+    {
+      "type": "literal",
+      "property_id": 7,
+      "property_label": "Date",
+      "is_public": true,
+      "@value": "April 6, 2010",
+      "@language": "en"
+    }
+  ],
+  "dcterms:identifier": [
+    {
+      "type": "literal",
+      "property_id": 10,
+      "property_label": "Identifier",
+      "is_public": true,
+      "@value": "2010.05.04"
+    }
+  ],
+  "dcterms:language": [
+    {
+      "type": "literal",
+      "property_id": 12,
+      "property_label": "Language",
+      "is_public": true,
+      "@value": "English",
+      "@language": "en"
+    }
+  ],
+  "dcterms:publisher": [
+    {
+      "type": "literal",
+      "property_id": 5,
+      "property_label": "Publisher",
+      "is_public": true,
+      "@value": "Weeksville Heritage Center",
+      "@language": "en"
+    }
+  ],
+  "dcterms:subject": [
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18906",
+      "o:label": "Village Gate"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1209",
+      "o:label": "Nina Simone"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q71",
+      "o:label": "Thelonious Monk"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/vocabulary/organizations/nbliu",
+      "o:label": "Long Island University"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85099030",
+      "o:label": "Pearl Harbor (Hawaii), Attack on, 1941"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh87001319",
+      "o:label": "Coney Island (New York, N.Y.)"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Ebbets Field (New York, N.Y.)",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1783",
+      "o:label": "King Pleasure"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q13",
+      "o:label": "Charlie Parker"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1415",
+      "o:label": "Billie Holiday"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q127",
+      "o:label": "Ella Fitzgerald"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q66",
+      "o:label": "Max Roach"
+    },
+    {
+      "type": "literal",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@value": "Count Basie (Musical group)",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q93",
+      "o:label": "Sarah Vaughan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q284",
+      "o:label": "George Shearing"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q281",
+      "o:label": "Art Blakey"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18825",
+      "o:label": "The Jazz Messengers"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q331",
+      "o:label": "Horace Silver"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18951",
+      "o:label": "Grant Green"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1727",
+      "o:label": "Shirley Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q413",
+      "o:label": "Kenny Burrell"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18912",
+      "o:label": "Ahmed Abdul-Malik"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1537",
+      "o:label": "Herbie Mann"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/vocabulary/organizations/nbp",
+      "o:label": "Pratt Institute"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18949",
+      "o:label": "Gary Bartz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q934",
+      "o:label": "Freddie Hubbard"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1909",
+      "o:label": "Roland Kirk"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q8",
+      "o:label": "Pharoah Sanders"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "https://id.loc.gov/authorities/n78086438",
+      "o:label": "Chicago (Ill.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q657",
+      "o:label": "Randy Weston"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/names/n91082771",
+      "o:label": "Bedford-Stuyvesant (New York, N.Y.)"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069833",
+      "o:label": "Jazz"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh85069835",
+      "o:label": "Jazz musicians"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://id.loc.gov/authorities/subjects/sh2001006683",
+      "o:label": "African American jazz musicians"
+    }
+  ],
+  "bibo:interviewer": [
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19038",
+      "o:label": "Willard Jenkins"
+    }
+  ],
+  "bibo:interviewee": [
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18967",
+      "o:label": "Jitu Weusi"
+    }
+  ],
+  "oc:location": [
+    {
+      "type": "literal",
+      "property_id": 191,
+      "property_label": "Location",
+      "is_public": true,
+      "@value": "Central Brooklyn Jazz Consortium ",
+      "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 191,
+      "property_label": "Location",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
+    }
+  ],
+  "oc:duration": [
+    {
+      "type": "literal",
+      "property_id": 188,
+      "property_label": "Duration",
+      "is_public": true,
+      "@value": "1 hour, 37 minutes, 37 seconds",
+      "@language": "en"
+    },
+    {
+      "type": "literal",
+      "property_id": 188,
+      "property_label": "Duration",
+      "is_public": true,
+      "@value": "54 minutes, 23 seconds",
+      "@language": "en"
+    }
+  ]
+}
