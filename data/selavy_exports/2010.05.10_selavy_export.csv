@@ -1,51 +1,50 @@
-Brooklyn Repertory Ensemble,,FALSE
-Brooklyn,,FALSE
+Brooklyn Repertory Ensemble,music group,http://base.semlab.io/entity/Q18812
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
 Randy Weston,person,http://base.semlab.io/entity/Q657
 Max Roach,person,http://base.semlab.io/entity/Q66
-Ray Abrams,person,FALSE
+Ray Abrams,person,http://base.semlab.io/entity/Q19011
 Billie Holiday,person,http://base.semlab.io/entity/Q43
 Nancy Wilson,person,http://base.semlab.io/entity/Q85
-Dizzy Gillespie?,person,http://base.semlab.io/entity/Q35
-Putnam Central?,,FALSE
-Coleman Hawkins,,FALSE
+Dizzy Gillespie,person,http://base.semlab.io/entity/Q35
+Putnam Central,music venue,http://base.semlab.io/entity/Q18871
+Coleman Hawkins,person,http://base.semlab.io/entity/Q24
 Arnett Cobb,person,http://base.semlab.io/entity/Q831
-Cecil Payne,person,FALSE
+Cecil Payne,person,http://base.semlab.io/entity/Q18931
 Lester Young,person,http://base.semlab.io/entity/Q12
 Charlie Parker,person,http://base.semlab.io/entity/Q13
 Rahsaan Roland Kirk,person,http://base.semlab.io/entity/Q1909
 McCoy Tyner,person,http://base.semlab.io/entity/Q200
-Kingston Lounge,,FALSE
-Andre Strobert,person,FALSE
+Kingston Lounge,music venue,http://base.semlab.io/entity/Q18860
+Andre Strobert,person,http://base.semlab.io/entity/Q18916
 Wynton Kelly,person,http://base.semlab.io/entity/Q1098
-Rafik Williamson,person,FALSE
-Ed Stoute,person,FALSE
-Willard Jenkins,person,FALSE
-Tulivu-Donna Cumberbatch?,person,FALSE
-Harold Cumberbatch,person,FALSE
+Rafik Williamson,person,http://base.semlab.io/entity/Q19008
+Ed Stoute,person,http://base.semlab.io/entity/Q18941
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
+Tulivu-Donna Cumberbatch?,person,http://base.semlab.io/entity/Q19029
+Harold Cumberbatch,person,http://base.semlab.io/entity/Q18953
 Lionel Hampton,person,http://base.semlab.io/entity/Q39
 Count Basie,person,http://base.semlab.io/entity/Q72
-Ernie Henry,person,FALSE
+Ernie Henry,person,http://base.semlab.io/entity/Q18943
 Louis Armstrong,person,http://base.semlab.io/entity/Q101
-The Blue Coronet,,FALSE
-Sonia Ballroom (Akbar Hall),,FALSE
-West End Cafe,,FALSE
-Swing to Bop Quintet,,FALSE
+The Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
+Sonia Ballroom (Akbar Hall),music venue,http://base.semlab.io/entity/Q18881
+West End Cafe,music venue,http://base.semlab.io/entity/Q18908
+Swing to Bop Quintet,music group,http://base.semlab.io/entity/Q18823
 Nat King Cole,person,http://base.semlab.io/entity/Q25
 Frank Sinatra,person,http://base.semlab.io/entity/Q346
 Sarah Vaughan,person,http://base.semlab.io/entity/Q93
 Ella Fitzgerald,person,http://base.semlab.io/entity/Q127
-Carmen McRae?,person,http://base.semlab.io/entity/Q566
-All-City Chorus,,FALSE
-The East,,FALSE
-Rashim,person,FALSE
-Onaje Allan Gumbs,person,FALSE
-Buddy Williams,person,FALSE
-Ray Abrams Big Band,,FALSE
-Baritone Saxophones,,FALSE
-Sista's Place,,FALSE
-The Flamingo Lounge,,FALSE
-Yoko Kanno,person,FALSE
-Wade E. Barnes,person,FALSE
-unnamed venue,,FALSE
+Carmen McRae,person,http://base.semlab.io/entity/Q566
+All-City Chorus,music group,http://base.semlab.io/entity/Q18810
+The East,music venue,http://base.semlab.io/entity/Q18885
+Rashim,person,http://base.semlab.io/entity/Q19009
+Onaje Allan Gumbs,person,http://base.semlab.io/entity/Q19001
+Buddy Williams,person,http://base.semlab.io/entity/Q18925
+Ray Abrams Big Band,music group,http://base.semlab.io/entity/Q18819
+Baritone Saxophones,music group,http://base.semlab.io/entity/Q18811
+Sista's Place,music venue,http://base.semlab.io/entity/Q18876
+The Flamingo Lounge,music venue,http://base.semlab.io/entity/Q18853
+Yoko Kanno,person,http://base.semlab.io/entity/Q19042
+Wade E. Barnes,person,http://base.semlab.io/entity/Q19034
 Miles Davis,person,http://base.semlab.io/entity/Q41
-Jean Cam,person,FALSE
+Jean Cam,person,http://base.semlab.io/entity/Q18959
