@@ -1,19 +1,19 @@
-Brooklyn,,
-Ron Washington,person,
-Roger Wareham,person,
-Sister Thulani,person,
-Willard Jenkins,person,
-Viola Plummer,person,
-?The East,,
-Gary Bartz,person,
-The Blue Coronet,,
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Ron Washington,person,http://base.semlab.io/entity/Q19019
+Roger Wareham,person,http://base.semlab.io/entity/Q19016
+Sister Thulani,person,http://base.semlab.io/entity/Q19023
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
+Viola Plummer,person,http://base.semlab.io/entity/Q19032
+The East,music venue,http://base.semlab.io/entity/Q18885
+Gary Bartz,person,http://base.semlab.io/entity/Q18949
+The Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
 Thelonious Monk,person,http://base.semlab.io/entity/Q71
-Baby Grand Brooklyn,,
-Baby Grand Harlem,,
-Slug's,,
-Wynton Marsalis?,person,http://base.semlab.io/entity/Q34
-Curtis Mayfield,person,
+Baby Grand Brooklyn,music venue,http://base.semlab.io/entity/Q18830
+Baby Grand Harlem,music venue,http://base.semlab.io/entity/Q18831
+Slug's,music venue,http://base.semlab.io/entity/Q18878
+Wynton Marsalis,person,http://base.semlab.io/entity/Q34
+Curtis Mayfield,person,http://base.semlab.io/entity/Q18934
 John Coltrane,person,http://base.semlab.io/entity/Q33
 Miles Davis,person,http://base.semlab.io/entity/Q41
-Sista's Place,,
-Cecil's,,
+Sista's Place,music venue,http://base.semlab.io/entity/Q18876
+Cecil's,music venue,http://base.semlab.io/entity/Q18843
