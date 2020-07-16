@@ -1,78 +1,79 @@
-Willard Jenkins,,False
-Harold Mabern,,False
-George Coleman,,False
-Frank Strozier,,False
-Booker Little,,False
-Walter Perkins,,False
-Bob Cranshaw,,False
-Willie Thomas,,False
-Paul Serrano,,False
-MJT+3,,False
-Muhal Richard Abrams,,False
-Brooklyn,,False
-Al Plank,,False
-Larry Ridley,,False
-Freddie Hubbard,,False
-Jimmy Spaulding,,False
-Eubie Blake,,False
-Mel Rhyne,,False
-Paul Parker,,False
-Percy Heath,,False
-Max Roach,,False
-Ben Holliman,,False
-Virgil Jones,,False
-Walt Miller,,False
-The Jazz Contemporaries,,False
-Slide Hampton Octet,,False
-Birdland,,False
-Lee Morgan,,False
-Lou Donaldson,,False
-Art Farmer,,False
-Cedar Walton,,False
-Pete LaRoca,,False
-Clifford Jarvis,,False
-Louis Hayes,,False
-Slide Hampton,,False
-Half Note,,False
-Philly Joe Jones,,False
-Jackie McLean,,False
-Blue Mitchell,,False
-Turbo Village,,False
-The Blue Coronet,,False
-Dexter Gordon,,False
-Andrew Cyrille,,False
-Barry Harris,,False
-Tony Williams,,False
-Tommy Williams,,False
-Rector Bailey,,False
-Baby Grand Brooklyn,,False
-Club La Marchal,,False
-Randy Weston,,False
-Booker Ervin,,False
-Scoby Strohman,,False
-Club Baron,,False
-Club 845,,False
-Count Basie,,False
-Art Blakey,,False
-Tommy Flanagan,,False
-Benny Golson,,False
-Miles Davis,,False
-Ron Carter,,False
-Jimmy Cobb,,False
-Betty Carter,,False
-J.J. Johnson,,False
-Lionel Hampton,,False
-Cannonball Adderley,,False
-Pee Wee Marquette,,False
-Harry ìSweetsî Edison,,False
-The Jazztet,,False
-Roy Haynes Quartet,,False
-Rudy Van Gelder,,False
-Palladium,,False
-Jitu Weusi,,False
-Jim Harrison,,False
-Nat White,,False
-Armando Peraza,,False
-Tito Puente,,False
-Machito,,False
-Hank Mobley,,False
+Entity, RDF Type, URI
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
+Harold Mabern,person,http://base.semlab.io/entity/Q18954
+George Coleman,person,http://base.semlab.io/entity/Q501
+Frank Strozier,person,http://base.semlab.io/entity/Q436
+Booker Little,person,http://base.semlab.io/entity/Q1423
+Walter Perkins,person,http://base.semlab.io/entity/Q19036
+Bob Cranshaw,person,http://base.semlab.io/entity/Q794
+Willie Thomas,person,http://base.semlab.io/entity/Q19040
+Paul Serrano,person,http://base.semlab.io/entity/Q19006
+MJT+3,music group,http://base.semlab.io/entity/Q18817
+Muhal Richard Abrams,person,http://base.semlab.io/entity/Q18998
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Al Plank,person,http://base.semlab.io/entity/Q18914
+Larry Ridley,person,http://base.semlab.io/entity/Q18981
+Freddie Hubbard,person,http://base.semlab.io/entity/Q934
+Jimmy Spaulding,person,http://base.semlab.io/entity/Q18957
+Eubie Blake,person,http://base.semlab.io/entity/Q347
+Mel Rhyne,person,http://base.semlab.io/entity/Q18992
+Paul Parker,person,http://base.semlab.io/entity/Q19005
+Percy Heath,person,http://base.semlab.io/entity/Q1121
+Max Roach,person,http://base.semlab.io/entity/Q66
+Ben Holliman,person,http://base.semlab.io/entity/Q18918
+Virgil Jones,person,http://base.semlab.io/entity/Q19033
+Walt Miller,person,http://base.semlab.io/entity/Q19035
+The Jazz Contemporaries,music group,http://base.semlab.io/entity/Q18814
+Slide Hampton Octet,music group,http://base.semlab.io/entity/Q18822
+Birdland,music venue,http://base.semlab.io/entity/Q18833
+Lee Morgan,person,http://base.semlab.io/entity/Q959
+Lou Donaldson,person,http://base.semlab.io/entity/Q1737
+Art Farmer,person,http://base.semlab.io/entity/Q661
+Cedar Walton,person,http://base.semlab.io/entity/Q1365
+Pete LaRoca,person,http://base.semlab.io/entity/Q19007
+Clifford Jarvis,person,http://base.semlab.io/entity/Q18933
+Louis Hayes,person,http://base.semlab.io/entity/Q18986
+Slide Hampton,person,http://base.semlab.io/entity/Q663
+Half Note,music venue,http://base.semlab.io/entity/Q18855
+Philly Joe Jones,person,http://base.semlab.io/entity/Q447
+Jackie McLean,person,http://base.semlab.io/entity/Q365
+Blue Mitchell,person,http://base.semlab.io/entity/Q819
+Turbo Village,music venue,http://base.semlab.io/entity/Q18901
+The Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
+Dexter Gordon,person,http://base.semlab.io/entity/Q117
+Andrew Cyrille,person,False
+Barry Harris,person,False
+Tony Williams,person,False
+Tommy Williams,person,False
+Rector Bailey,person,False
+Baby Grand Brooklyn,music venue,False
+Club La Marchal,music venue,False
+Randy Weston,person,False
+Booker Ervin,person,False
+Scoby Strohman,person,False
+Club Baron,music venue,False
+Club 845,music venue,False
+Count Basie,person,False
+Art Blakey,person,False
+Tommy Flanagan,person,False
+Benny Golson,person,False
+Miles Davis,person,False
+Ron Carter,person,False
+Jimmy Cobb,person,False
+Betty Carter,person,False
+J.J. Johnson,person,False
+Lionel Hampton,person,False
+Cannonball Adderley,person,False
+Pee Wee Marquette,person,False
+Harry ‚ÄúSweets‚Äù Edison,person,False
+The Jazztet,music group,False
+Roy Haynes Quartet,music group,False
+Rudy Van Gelder,person,False
+Palladium,music venue,False
+Jitu Weusi,person,False
+Jim Harrison,person,False
+Nat White,person,False
+Armando Peraza,person,False
+Tito Puente,person,False
+Machito,person,False
+Hank Mobley,person,False
