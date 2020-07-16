@@ -41,39 +41,39 @@ Blue Mitchell,person,http://base.semlab.io/entity/Q819
 Turbo Village,music venue,http://base.semlab.io/entity/Q18901
 The Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
 Dexter Gordon,person,http://base.semlab.io/entity/Q117
-Andrew Cyrille,person,False
-Barry Harris,person,False
-Tony Williams,person,False
-Tommy Williams,person,False
-Rector Bailey,person,False
-Baby Grand Brooklyn,music venue,False
-Club La Marchal,music venue,False
-Randy Weston,person,False
-Booker Ervin,person,False
-Scoby Strohman,person,False
-Club Baron,music venue,False
-Club 845,music venue,False
-Count Basie,person,False
-Art Blakey,person,False
-Tommy Flanagan,person,False
-Benny Golson,person,False
-Miles Davis,person,False
-Ron Carter,person,False
-Jimmy Cobb,person,False
-Betty Carter,person,False
-J.J. Johnson,person,False
-Lionel Hampton,person,False
-Cannonball Adderley,person,False
-Pee Wee Marquette,person,False
-Harry “Sweets” Edison,person,False
-The Jazztet,music group,False
-Roy Haynes Quartet,music group,False
-Rudy Van Gelder,person,False
-Palladium,music venue,False
-Jitu Weusi,person,False
-Jim Harrison,person,False
-Nat White,person,False
-Armando Peraza,person,False
-Tito Puente,person,False
-Machito,person,False
-Hank Mobley,person,False
+Andrew Cyrille,person,http://base.semlab.io/entity/Q471
+Barry Harris,person,http://base.semlab.io/entity/Q1009
+Tony Williams,person,http://base.semlab.io/entity/Q20
+Tommy Williams,person,http://base.semlab.io/entity/Q19026
+Rector Bailey,person,http://base.semlab.io/entity/Q19012
+Baby Grand Brooklyn,music venue,http://base.semlab.io/entity/Q18830
+Club La Marchal,music venue,http://base.semlab.io/entity/Q18847
+Randy Weston,person,http://base.semlab.io/entity/Q657
+Booker Ervin,person,http://base.semlab.io/entity/Q1953
+Scoby Strohman,person,http://base.semlab.io/entity/Q19022
+Club Baron,music venue,http://base.semlab.io/entity/Q18846
+Club 845,music venue,http://base.semlab.io/entity/Q18845
+Count Basie,person,http://base.semlab.io/entity/Q72
+Art Blakey,person,http://base.semlab.io/entity/Q281
+Tommy Flanagan,person,http://base.semlab.io/entity/Q898
+Benny Golson,person,http://base.semlab.io/entity/Q295
+Miles Davis,person,http://base.semlab.io/entity/Q41
+Ron Carter,person,http://base.semlab.io/entity/Q45
+Jimmy Cobb,person,http://base.semlab.io/entity/Q924
+Betty Carter,person,http://base.semlab.io/entity/Q102
+J.J. Johnson,person,http://base.semlab.io/entity/Q1090
+Lionel Hampton,person,http://base.semlab.io/entity/Q39
+Cannonball Adderley,person,http://base.semlab.io/entity/Q777
+Pee Wee Marquette,person,http://base.semlab.io/entity/Q1999
+Harry “Sweets” Edison,person,http://base.semlab.io/entity/Q979
+The Jazztet,music group,http://base.semlab.io/entity/Q18826
+Roy Haynes Quartet,music group,http://base.semlab.io/entity/Q18820
+Rudy Van Gelder,person,http://base.semlab.io/entity/Q294
+Palladium,music venue,http://base.semlab.io/entity/Q18867
+Jitu Weusi,person,http://base.semlab.io/entity/Q18967
+Jim Harrison,person,http://base.semlab.io/entity/Q18964
+Nat White,person,http://base.semlab.io/entity/Q18999
+Armando Peraza,person,http://base.semlab.io/entity/Q18917
+Tito Puente,person,http://base.semlab.io/entity/Q165
+Machito,person,http://base.semlab.io/entity/Q192
+Hank Mobley,person,http://base.semlab.io/entity/Q944
