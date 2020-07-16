@@ -1,14 +1,14 @@
-Sort,Subject,URI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sort,Subject,URI
-1,Willard Jenkins,http://base.semlab.io/entity/Q19038,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-2,Harold Mabern,http://base.semlab.io/entity/Q18954,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-3,George Coleman,http://base.semlab.io/entity/Q501,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-4,Frank Strozier,http://base.semlab.io/entity/Q436,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-5,Booker Little,http://base.semlab.io/entity/Q1423,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-6,Walter Perkins,http://base.semlab.io/entity/Q19036,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-7,Bob Cranshaw,http://base.semlab.io/entity/Q794,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-8,Willie Thomas,http://base.semlab.io/entity/Q19040,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-9,Paul Serrano,http://base.semlab.io/entity/Q19006,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-10,MJT+3,http://base.semlab.io/entity/Q18817,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Sort,Subject,URI
+1,Willard Jenkins,http://base.semlab.io/entity/Q19038
+2,Harold Mabern,http://base.semlab.io/entity/Q18954
+3,George Coleman,http://base.semlab.io/entity/Q501
+4,Frank Strozier,http://base.semlab.io/entity/Q436
+5,Booker Little,http://base.semlab.io/entity/Q1423
+6,Walter Perkins,http://base.semlab.io/entity/Q19036
+7,Bob Cranshaw,http://base.semlab.io/entity/Q794
+8,Willie Thomas,http://base.semlab.io/entity/Q19040
+9,Paul Serrano,http://base.semlab.io/entity/Q19006
+10,MJT+3,http://base.semlab.io/entity/Q18817
 11,Muhal Richard Abrams,http://base.semlab.io/entity/Q18998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 12,Al Plank,http://base.semlab.io/entity/Q18914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 13,Larry Ridley,http://base.semlab.io/entity/Q18981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
@@ -84,4 +84,4 @@ Sort,Subject,URI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,Sort,Subject,URI
 83,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 84,Jazz,http://id.loc.gov/authorities/subjects/sh85069833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 85,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-86,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
