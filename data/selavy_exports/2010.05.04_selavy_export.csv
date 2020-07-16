@@ -1,175 +1,88 @@
 Entity, RDF Type, URI
-Jitu Weusi,person,False
-
-Willard Jenkins,person,False
-
-Brooklyn,borough,False
-
-Randy Weston,person,False
-
-Frankie Lymón,person,False
-
-Willie Jones,person,False
-
-Max Roach,person,False
-
-Count Basie,person,False
-
-Joe Williams,person,False
-
-Sarah Vaughan,person,False
-
-Teddy Wilson,person,False
-
-George Shearing,person,False
-
-Scoby Strohman,person,False
-
-Chief Bey,person,False
-
-Ruth Brown,person,False
-
-Fats Domino,person,False
-
-Charlie Parker,person,False
-
-Billie Holiday,person,False
-
-Ella Fitzgerald,person,False
-
-King Pleasure,person,False
-
-Sam the Record Man,,False
-
-Kingston Lounge,,False
-
-Art Blakey,,False
-
-Nina Simone,,False
-
-Ahmed Abdul-Malik,,False
-
-Herbie Mann,,False
-
-Joe Wells,,False
-
-Thelonious Monk,,False
-
-Village Gate,,False
-
-Birdland,,False
-
-Village Vanguard,,False
-
-Putnam Central,,False
-
-Tony's Grand Dean,,False
-
-The Continental,,False
-
-The East,,False
-
-Freddie Hubbard,,False
-
-Rector Bailey,,False
-
-Berry Brothers,,False
-
-Blue Coronet,,False
-
-Club La Marchal,,False
-
-Turbo VIllage,,False
-
-Tip Top Inn,,False
-
-Monaco,,False
-
-Jazz Messengers,,False
-
-Bobby Timmons,,False
-
-Lee Morgan,,False
-
-Wayne Shorter,,False
-
-Kenny Burrell,,False
-
-Grant Green,,False
-
-Dakota Staton,,False
-
-Gloria Lynne,,False
-
-Symphony Sid,,False
-
-Miles Davis,,False
-
-Ornette Coleman,,False
-
-Horace Silver,,False
-
-Brankers,,False
-
-Shirley Scott,,False
-
-Cannonball Adderley,,False
-
-Jymie Merritt,,False
-
-Coltrane,,False
-
-Leon Thomas,,False
-
-Gary Bartz,,False
-
-Rahsaan Roland Kirk,,False
-
-Louis Jordan,,False
-
-Chick Webb,,False
-
-Oscar Brown,,False
-
-Pharoah Sanders,,False
-
-Mtume,,False
-
-Central Brooklyn Jazz Consortium,,False
-
-James Hawthorne Bey,,False
-
-Rustic Tavern,,False
-
-Sugar Hill,,False
-
-Williamsburg Music Center,,False
-
-Jazz 966,,False
-
-Sista's Place,,False
-
-Afro Arts Design,,False
-
-Frank Edward Weston,,False
-
-Torrie McCarthy,,False
-
-Sam Pinn,,False
-
-Joe Carroll,,False
-
-Viola Plummer,,False
-
-Alma Carroll,,False
-
-Ron Warwell,,False
-
-Azzedin Weston,,False
-
-Elvin Jones,,False
-
-Carlos Garnett,,False
-
-Kwesi Mensah Wali,,False
-
+Jitu Weusi,person,FALSE
+Willard Jenkins,person,FALSE
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Randy Weston,person,http://base.semlab.io/entity/Q657
+Frankie Lymón,person,FALSE
+Willie Jones,person,FALSE
+Max Roach,person,http://base.semlab.io/entity/Q66
+Count Basie,person,FALSE
+Joe Williams,person,FALSE
+Sarah Vaughan,person,http://base.semlab.io/entity/Q93
+Teddy Wilson,person,FALSE
+George Shearing,person,http://base.semlab.io/entity/Q284
+Scoby Strohman,person,FALSE
+Chief Bey,person,FALSE
+Ruth Brown,person,FALSE
+Fats Domino,person,FALSE
+Charlie Parker,person,http://base.semlab.io/entity/Q13
+Billie Holiday,person,http://base.semlab.io/entity/Q1415
+Ella Fitzgerald,person,http://base.semlab.io/entity/Q127
+King Pleasure,person,http://base.semlab.io/entity/Q1783
+Sam the Record Man,,FALSE
+Kingston Lounge,,FALSE
+Art Blakey,,http://base.semlab.io/entity/Q281
+Nina Simone,person,http://base.semlab.io/entity/Q1209
+Ahmed Abdul-Malik,person,http://base.semlab.io/entity/Q18912
+Herbie Mann,person,http://base.semlab.io/entity/Q1537
+Joe Wells,,FALSE
+Thelonious Monk,person,http://base.semlab.io/entity/Q71
+Village Gate,music venue,http://base.semlab.io/entity/Q18906
+Birdland,,FALSE
+Village Vanguard,,FALSE
+Putnam Central,,FALSE
+Tony's Grand Dean,,FALSE
+The Continental,,FALSE
+The East,,FALSE
+Freddie Hubbard,person,http://base.semlab.io/entity/Q934
+Rector Bailey,,FALSE
+Berry Brothers,,FALSE
+Blue Coronet,,FALSE
+Club La Marchal,,FALSE
+Turbo VIllage,,FALSE
+Tip Top Inn,,FALSE
+Monaco,,FALSE
+Jazz Messengers,music group,http://base.semlab.io/entity/Q18825
+Bobby Timmons,,FALSE
+Lee Morgan,,FALSE
+Wayne Shorter,,FALSE
+Kenny Burrell,person,http://base.semlab.io/entity/Q413
+Grant Green,person,http://base.semlab.io/entity/Q18951
+Dakota Staton,,FALSE
+Gloria Lynne,,FALSE
+Symphony Sid,,FALSE
+Miles Davis,,FALSE
+Ornette Coleman,,FALSE
+Horace Silver,person,http://base.semlab.io/entity/Q331
+Brankers,,FALSE
+Shirley Scott,person,http://base.semlab.io/entity/Q1727
+Cannonball Adderley,,FALSE
+Jymie Merritt,,FALSE
+Coltrane,,FALSE
+Leon Thomas,,FALSE
+Gary Bartz,person,http://base.semlab.io/entity/Q18949
+Rahsaan Roland Kirk,person,http://base.semlab.io/entity/Q1909
+Louis Jordan,,FALSE
+Chick Webb,,FALSE
+Oscar Brown,,FALSE
+Pharoah Sanders,person,http://base.semlab.io/entity/Q8
+Mtume,,FALSE
+Central Brooklyn Jazz Consortium,,FALSE
+James Hawthorne Bey,,FALSE
+Rustic Tavern,,FALSE
+Sugar Hill,,FALSE
+Williamsburg Music Center,,FALSE
+Jazz 966,,FALSE
+Sista's Place,,FALSE
+Afro Arts Design,,FALSE
+Frank Edward Weston,,FALSE
+Torrie McCarthy,,FALSE
+Sam Pinn,,FALSE
+Joe Carroll,,FALSE
+Viola Plummer,,FALSE
+Alma Carroll,,FALSE
+Ron Warwell,,FALSE
+Azzedin Weston,,FALSE
+Elvin Jones,,FALSE
+Carlos Garnett,,FALSE
+Kwesi Mensah Wali,,FALSE
