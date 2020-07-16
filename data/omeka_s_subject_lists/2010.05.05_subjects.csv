@@ -9,79 +9,79 @@ Sort,Subject,URI
 8,Willie Thomas,http://base.semlab.io/entity/Q19040
 9,Paul Serrano,http://base.semlab.io/entity/Q19006
 10,MJT+3,http://base.semlab.io/entity/Q18817
-11,Muhal Richard Abrams,http://base.semlab.io/entity/Q18998,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-12,Al Plank,http://base.semlab.io/entity/Q18914,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-13,Larry Ridley,http://base.semlab.io/entity/Q18981,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-14,Freddie Hubbard,http://base.semlab.io/entity/Q934,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-15,Jimmy Spaulding,http://base.semlab.io/entity/Q18957,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-16,Eubie Blake,http://base.semlab.io/entity/Q347,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-17,Mel Rhyne,http://base.semlab.io/entity/Q18992,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-18,Paul Parker,http://base.semlab.io/entity/Q19005,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-19,Percy Heath,http://base.semlab.io/entity/Q1121,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-20,Max Roach,http://base.semlab.io/entity/Q66,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-21,Ben Holliman,http://base.semlab.io/entity/Q18918,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-22,Virgil Jones,http://base.semlab.io/entity/Q19033,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-23,Walt Miller,http://base.semlab.io/entity/Q19035,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-24,The Jazz Contemporaries,http://base.semlab.io/entity/Q18814,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-25,Slide Hampton Octet,http://base.semlab.io/entity/Q18822,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-26,Birdland,http://base.semlab.io/entity/Q18833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-27,Lee Morgan,http://base.semlab.io/entity/Q959,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-28,Lou Donaldson,http://base.semlab.io/entity/Q1737,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-29,Art Farmer,http://base.semlab.io/entity/Q661,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-30,Cedar Walton,http://base.semlab.io/entity/Q1365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-31,Pete LaRoca,http://base.semlab.io/entity/Q19007,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-32,Clifford Jarvis,http://base.semlab.io/entity/Q18933,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-33,Louis Hayes,http://base.semlab.io/entity/Q18986,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-34,Slide Hampton,http://base.semlab.io/entity/Q663,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-35,Half Note,http://base.semlab.io/entity/Q18855,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-36,Philly Joe Jones,http://base.semlab.io/entity/Q447,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-37,Jackie McLean,http://base.semlab.io/entity/Q365,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-38,Blue Mitchell,http://base.semlab.io/entity/Q819,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-39,Turbo Village,http://base.semlab.io/entity/Q18901,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-40,The Blue Coronet,http://base.semlab.io/entity/Q18834,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-41,Dexter Gordon,http://base.semlab.io/entity/Q117,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-42,Andrew Cyrille,http://base.semlab.io/entity/Q471,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-43,Barry Harris,http://base.semlab.io/entity/Q1009,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-44,Tony Williams,http://base.semlab.io/entity/Q20,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-45,Tommy Williams,http://base.semlab.io/entity/Q19026,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-46,Rector Bailey,http://base.semlab.io/entity/Q19012,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-47,Baby Grand Brooklyn,http://base.semlab.io/entity/Q18830,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-48,Club La Marchal,http://base.semlab.io/entity/Q18847,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-49,Randy Weston,http://base.semlab.io/entity/Q657,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-50,Booker Ervin,http://base.semlab.io/entity/Q1953,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-51,Scoby Stroman,http://base.semlab.io/entity/Q19022,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-52,Club Baron,http://base.semlab.io/entity/Q18846,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-53,Club 845,http://base.semlab.io/entity/Q18845,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-54,Count Basie,http://base.semlab.io/entity/Q72,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-55,Art Blakey,http://base.semlab.io/entity/Q281,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-56,Tommy Flanagan,http://base.semlab.io/entity/Q898,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-57,Benny Golson\t,http://base.semlab.io/entity/Q295,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-58,Miles Davis,http://base.semlab.io/entity/Q41,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-59,Ron Carter,http://base.semlab.io/entity/Q45,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-60,Jimmy Cobb,http://base.semlab.io/entity/Q924,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-61,Betty Carter,http://base.semlab.io/entity/Q102,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-62,J.J. Johnson,http://base.semlab.io/entity/Q1090,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-63,Lionel Hampton,http://base.semlab.io/entity/Q39,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-64,Cannonball Adderley,http://base.semlab.io/entity/Q777,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-65,Pee Wee Marquette,http://base.semlab.io/entity/Q1999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-66,"Harry ""Sweets"" Edison",http://base.semlab.io/entity/Q979,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-67,The Jazztet,http://base.semlab.io/entity/Q18826,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-68,Roy Haynes Quartet,http://base.semlab.io/entity/Q18820,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-69,Rudy Van Gelder,http://base.semlab.io/entity/Q294,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-70,Palladium,http://base.semlab.io/entity/Q18867,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-71,Jitu Weusi,http://base.semlab.io/entity/Q18967,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-72,Jim Harrison,http://base.semlab.io/entity/Q18964,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-73,Nat White,http://base.semlab.io/entity/Q18999,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-74,Armando Peraza,http://base.semlab.io/entity/Q18917,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-75,Tito Puente,http://base.semlab.io/entity/Q165,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-76,Machito,http://base.semlab.io/entity/Q192,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-77,Hank Mobley,http://base.semlab.io/entity/Q944,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-78,Chicago (Ill.),http://id.loc.gov/authorities/names/n78086438,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-79,New York (N.Y.),http://id.loc.gov/authorities/names/n79007751,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-80,Indianapolis (Ind.),https://id.loc.gov/authorities/n79055094,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-81,The Night of the Cookers (performance),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-82,Brooklyn,http://base.semlab.io/entity/Q18808,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-83,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-84,Jazz,http://id.loc.gov/authorities/subjects/sh85069833,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
-85,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+11,Muhal Richard Abrams,http://base.semlab.io/entity/Q18998
+12,Al Plank,http://base.semlab.io/entity/Q18914
+13,Larry Ridley,http://base.semlab.io/entity/Q18981
+14,Freddie Hubbard,http://base.semlab.io/entity/Q934
+15,Jimmy Spaulding,http://base.semlab.io/entity/Q18957
+16,Eubie Blake,http://base.semlab.io/entity/Q347
+17,Mel Rhyne,http://base.semlab.io/entity/Q18992
+18,Paul Parker,http://base.semlab.io/entity/Q19005
+19,Percy Heath,http://base.semlab.io/entity/Q1121
+20,Max Roach,http://base.semlab.io/entity/Q66
+21,Ben Holliman,http://base.semlab.io/entity/Q18918
+22,Virgil Jones,http://base.semlab.io/entity/Q19033
+23,Walt Miller,http://base.semlab.io/entity/Q19035
+24,The Jazz Contemporaries,http://base.semlab.io/entity/Q18814
+25,Slide Hampton Octet,http://base.semlab.io/entity/Q18822
+26,Birdland,http://base.semlab.io/entity/Q18833
+27,Lee Morgan,http://base.semlab.io/entity/Q959
+28,Lou Donaldson,http://base.semlab.io/entity/Q1737
+29,Art Farmer,http://base.semlab.io/entity/Q661
+30,Cedar Walton,http://base.semlab.io/entity/Q1365
+31,Pete LaRoca,http://base.semlab.io/entity/Q19007
+32,Clifford Jarvis,http://base.semlab.io/entity/Q18933
+33,Louis Hayes,http://base.semlab.io/entity/Q18986
+34,Slide Hampton,http://base.semlab.io/entity/Q663
+35,Half Note,http://base.semlab.io/entity/Q18855
+36,Philly Joe Jones,http://base.semlab.io/entity/Q447
+37,Jackie McLean,http://base.semlab.io/entity/Q365
+38,Blue Mitchell,http://base.semlab.io/entity/Q819
+39,Turbo Village,http://base.semlab.io/entity/Q18901
+40,The Blue Coronet,http://base.semlab.io/entity/Q18834
+41,Dexter Gordon,http://base.semlab.io/entity/Q117
+42,Andrew Cyrille,http://base.semlab.io/entity/Q471
+43,Barry Harris,http://base.semlab.io/entity/Q1009
+44,Tony Williams,http://base.semlab.io/entity/Q20
+45,Tommy Williams,http://base.semlab.io/entity/Q19026
+46,Rector Bailey,http://base.semlab.io/entity/Q19012
+47,Baby Grand Brooklyn,http://base.semlab.io/entity/Q18830
+48,Club La Marchal,http://base.semlab.io/entity/Q18847
+49,Randy Weston,http://base.semlab.io/entity/Q657
+50,Booker Ervin,http://base.semlab.io/entity/Q1953
+51,Scoby Stroman,http://base.semlab.io/entity/Q19022
+52,Club Baron,http://base.semlab.io/entity/Q18846
+53,Club 845,http://base.semlab.io/entity/Q18845
+54,Count Basie,http://base.semlab.io/entity/Q72
+55,Art Blakey,http://base.semlab.io/entity/Q281
+56,Tommy Flanagan,http://base.semlab.io/entity/Q898
+57,Benny Golson\t,http://base.semlab.io/entity/Q295
+58,Miles Davis,http://base.semlab.io/entity/Q41
+59,Ron Carter,http://base.semlab.io/entity/Q45
+60,Jimmy Cobb,http://base.semlab.io/entity/Q924
+61,Betty Carter,http://base.semlab.io/entity/Q102
+62,J.J. Johnson,http://base.semlab.io/entity/Q1090
+63,Lionel Hampton,http://base.semlab.io/entity/Q39
+64,Cannonball Adderley,http://base.semlab.io/entity/Q777
+65,Pee Wee Marquette,http://base.semlab.io/entity/Q1999
+66,"Harry ""Sweets"" Edison",http://base.semlab.io/entity/Q979
+67,The Jazztet,http://base.semlab.io/entity/Q18826
+68,Roy Haynes Quartet,http://base.semlab.io/entity/Q18820
+69,Rudy Van Gelder,http://base.semlab.io/entity/Q294
+70,Palladium,http://base.semlab.io/entity/Q18867
+71,Jitu Weusi,http://base.semlab.io/entity/Q18967
+72,Jim Harrison,http://base.semlab.io/entity/Q18964
+73,Nat White,http://base.semlab.io/entity/Q18999
+74,Armando Peraza,http://base.semlab.io/entity/Q18917
+75,Tito Puente,http://base.semlab.io/entity/Q165
+76,Machito,http://base.semlab.io/entity/Q192
+77,Hank Mobley,http://base.semlab.io/entity/Q944
+78,Chicago (Ill.),http://id.loc.gov/authorities/names/n78086438
+79,New York (N.Y.),http://id.loc.gov/authorities/names/n79007751
+80,Indianapolis (Ind.),https://id.loc.gov/authorities/n79055094
+81,The Night of the Cookers (performance),
+82,Brooklyn,http://base.semlab.io/entity/Q18808
+83,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771
+84,Jazz,http://id.loc.gov/authorities/subjects/sh85069833
+85,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835
 86,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
