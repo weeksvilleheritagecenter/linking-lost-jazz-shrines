@@ -1,4 +1,4 @@
-﻿{
+{
   "@context": "http://whcarchives.org/api-context",
   "@id": "http://whcarchives.org/api/items/824",
   "@type": [
@@ -26,7 +26,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:modified": {
-    "@value": "2020-05-18T00:49:05+00:00",
+    "@value": "2020-07-16T02:29:03+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:media": [],
@@ -779,6 +779,14 @@
       "is_public": true,
       "@value": "The Night of the Cookers (performance)",
       "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18867",
+      "o:label": "Orville O'Brien"
     },
     {
       "type": "uri",
