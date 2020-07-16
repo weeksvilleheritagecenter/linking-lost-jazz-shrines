@@ -11,13 +11,13 @@ Ahmad Jamal,person,https://base.semlab.io/entity/Q665
 Thelonius Monk,person,https://base.semlab.io/entity/Q71
 Nat “King” Cole,person,https://base.semlab.io/entity/Q25
 The Flamingo Lounge,music venue,False
-Brownies,music venue,False
+Brownies,music venue,http://base.semlab.io/entity/Q18840
 C. Scoby Stroman,person,False
 Tony's Grand Dean,music venue,False
 Sista’s Place,music venue,False
 Jean Carn,person,False
 Kiane Zawadi,person,False
-Blue Note,music venue,False
+Blue Note,music venue,http://base.semlab.io/entity/Q18835
 Ed Stoute,person,False
 Doug Carn,person,False
 Gary Bartz,person,False
