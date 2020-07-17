@@ -1,157 +1,79 @@
-Willard Jenkins,,FALSE
-,,
-Harold Valle,,FALSE
-,,
-Jo Ann Cheatham,,FALSE
-,,
-Tony's Grand Dean,,FALSE
-,,
-Tulivu Donna Cumberbatch,,FALSE
-,,
-Donald Sangster,,FALSE
-,,
-Kingston Lounge,,FALSE
-,,
-Vincent Jones,,FALSE
-,,
-Putnam Central,,FALSE
-,,
-Jimmy Morton,,FALSE
-,,
-Harold Cumberbatch,,FALSE
-,,
-Thelonious Monk,,FALSE
-,,
-Brooklyn,,FALSE
-,,
-Ray Abrams,,FALSE
-,,
-Sugar Hill,,FALSE
-,,
-Elaine Applin,,FALSE
-,,
-The East,,FALSE
-,,
-Leroy Applin,,FALSE
-,,
-Randy Weston,,FALSE
-,,
-Wilson Hayes,,FALSE
-,,
-McCoy Tyner,,FALSE
-,,
-Mamie Smith,,FALSE
-,,
-Coleman Hawkins,,FALSE
-,,
-Jazz Hounds,,FALSE
-,,
-The Elks,,FALSE
-,,
-Rahsaan Roland Kirk,,FALSE
-,,
-Pharoah Sanders,,FALSE
-,,
-Leon Thomas,,FALSE
-,,
-Jean Carn,,FALSE
-,,
-Doug Carn,,FALSE
-,,
-Slave Theater,,FALSE
-,,
-Big Maybelle,,FALSE
-,,
-Arlington Inn,,FALSE
-,,
-Town Hill,,FALSE
-,,
-Howard McGhee,,FALSE
-,,
-Dickie Habersham-Bey,,FALSE
-,,
-Joe Williams,,FALSE
-,,
-Turbo Village,,FALSE
-,,
-Lucky Spot,,FALSE
-,,
-Jefferson Bar,,FALSE
-,,
-The Id,,FALSE
-,,
-Clifford Jordan,,FALSE
-,,
-Kenny Dorham,,FALSE
-,,
-Ed Stoute,,FALSE
-,,
-Flamingo Lounge,,FALSE
-,,
-The Fantasy,,FALSE
-,,
-Tip Top Inn,,FALSE
-,,
-Brownie's,,FALSE
-,,
-John Orr,,FALSE
-,,
-Jazz Spot,,FALSE
-,,
-Club La Marchal,,FALSE
-,,
-Brevoort Theater,,FALSE
-,,
-Crescent Lounge,,FALSE
-,,
-Willoughby Temple,,FALSE
-,,
-Smuckers,,FALSE
-,,
-Brooklyn Academy of Music,,FALSE
-,,
-Eddie Freeman,,FALSE
-,,
-James Baldwin,,FALSE
-,,
-Jennifer Scott,,FALSE
-,,
-John Stevenson,,FALSE
-,,
-Lee Blair,,FALSE
-,,
-Club Just Us,,FALSE
-,,
-Sun Ra,,FALSE
-,,
-Grecian Cave,,FALSE
-,,
-Pumpkins,,FALSE
-,,
-Bill Rutherford,,FALSE
-,,
-Melvin Sparks,,FALSE
-,,
-ValHal,,FALSE
-,,
-The Hole,,FALSE
-,,
-Betty Carter,,FALSE
-,,
-Pratt Institute,,FALSE
-,,
-Up Over Jazz Café,,FALSE
-,,
-Enos Payne,,FALSE
-,,
-Birdland,,FALSE
-,,
-Wynton Marsalis,,FALSE
-,,
-Sista's Place,,FALSE
-,,
-Jazz 966,,FALSE
-,,
-Alma Carroll,,FALSE
-,,
-Sankofa,,FALSE
+Entity, RDF Type, URI
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
+Harold Valle,person,http://base.semlab.io/entity/Q18955
+Jo Ann Cheatham,person,http://base.semlab.io/entity/Q18968
+Tony's Grand Dean,music venue,http://base.semlab.io/entity/Q18898
+Tulivu Donna Cumberbatch,person,http://base.semlab.io/entity/Q19029
+Donald Sangster,person,http://base.semlab.io/entity/Q18936
+Kingston Lounge,music venue,http://base.semlab.io/entity/Q18860
+Vincent Jones,person,http://base.semlab.io/entity/Q19100
+Putnam Central,music venue,http://base.semlab.io/entity/Q18871
+Jimmy Morton,person,http://base.semlab.io/entity/Q18966
+Harold Cumberbatch,person,http://base.semlab.io/entity/Q18953
+Thelonious Monk,person,http://base.semlab.io/entity/Q71
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Ray Abrams,person,http://base.semlab.io/entity/Q19011
+Sugar Hill,music venue,http://base.semlab.io/entity/Q18883
+Elaine Applin,person,http://base.semlab.io/entity/Q18942
+The East,music venue,http://base.semlab.io/entity/Q18885
+Leroy Applin,person,http://base.semlab.io/entity/Q18985
+Randy Weston,person,http://base.semlab.io/entity/Q657
+Wilson Hayes,person,http://base.semlab.io/entity/Q19041
+McCoy Tyner,person,http://base.semlab.io/entity/Q200
+Mamie Smith,person,http://base.semlab.io/entity/Q656
+Coleman Hawkins,person,http://base.semlab.io/entity/Q24
+Jazz Hounds,music group,http://base.semlab.io/entity/Q18815
+The Elks,music venue,http://base.semlab.io/entity/Q18886
+Rahsaan Roland Kirk,person,http://base.semlab.io/entity/Q1909
+Pharoah Sanders,person,http://base.semlab.io/entity/Q8
+Leon Thomas,person,http://base.semlab.io/entity/Q18983
+Jean Carn,person,http://base.semlab.io/entity/Q18960
+Doug Carn,person,http://base.semlab.io/entity/Q18937
+Slave Theater,music venue,http://base.semlab.io/entity/Q18877
+Big Maybelle,person,http://base.semlab.io/entity/Q95
+Arlington Inn,music venue,http://base.semlab.io/entity/Q18828
+Town Hill,music venue,http://base.semlab.io/entity/Q18900
+Howard McGhee,person,http://base.semlab.io/entity/Q457
+Dickie Habersham-Bey,person,http://base.semlab.io/entity/Q19013
+Joe Williams,person,http://base.semlab.io/entity/Q46
+Turbo Village,music venue,http://base.semlab.io/entity/Q18901
+Lucky Spot,music venue,http://base.semlab.io/entity/Q18863
+Jefferson Bar,music venue,http://base.semlab.io/entity/Q18858
+The Id,music venue,http://base.semlab.io/entity/Q18890
+Clifford Jordan,person,http://base.semlab.io/entity/Q63
+Kenny Dorham,person,http://base.semlab.io/entity/Q55
+Ed Stoute,person,http://base.semlab.io/entity/Q18941
+Flamingo Lounge,music venue,http://base.semlab.io/entity/Q18853
+The Fantasy,music venue,http://base.semlab.io/entity/Q18887
+Tip Top Inn,music venue,http://base.semlab.io/entity/Q18897
+Brownie's,music venue,http://base.semlab.io/entity/Q18840
+John Orr,person,http://base.semlab.io/entity/Q18972
+Jazz Spot,music venue,http://base.semlab.io/entity/Q18891
+Club La Marchal,music venue,http://base.semlab.io/entity/Q18847
+Brevoort Theater,music venue,http://base.semlab.io/entity/Q18862
+Crescent Lounge,music venue,http://base.semlab.io/entity/Q18849
+Willoughby Temple,music venue,http://base.semlab.io/entity/Q18910
+Smuckers,music venue,http://base.semlab.io/entity/Q18879
+Brooklyn Academy of Music,music venue,http://base.semlab.io/entity/Q18837
+Eddie Freeman,person,http://base.semlab.io/entity/Q18939
+James Baldwin,person,http://base.semlab.io/entity/Q1834
+Jennifer Scott,person,http://base.semlab.io/entity/Q18963
+John Stevenson,person,http://base.semlab.io/entity/Q18973
+Lee Blair,person,http://base.semlab.io/entity/Q1567
+Sun Ra,person,http://base.semlab.io/entity/Q52
+Grecian Cave,music venue,http://base.semlab.io/entity/Q18854
+Pumpkins,music venue,http://base.semlab.io/entity/Q18870
+Bill Rutherford,person,http://base.semlab.io/entity/Q18920
+Melvin Sparks,person,http://base.semlab.io/entity/Q18994
+Valhalla,music venue,http://base.semlab.io/entity/Q18904
+The Hole,music venue,http://base.semlab.io/entity/Q18889
+Betty Carter,person,http://base.semlab.io/entity/Q102
+Pratt Institute,music venue,http://base.semlab.io/entity/Q19101
+Up Over Jazz CafÃ©,music venue,http://base.semlab.io/entity/Q18903
+Enos Payne,person,http://base.semlab.io/entity/Q18935
+Birdland,music venue,http://base.semlab.io/entity/Q18833
+Wynton Marsalis,person,http://base.semlab.io/entity/Q34
+Sista's Place,music venue,http://base.semlab.io/entity/Q18876
+Jazz 966,music venue,FALSE
+Alma Carroll,person,http://base.semlab.io/entity/Q18915
+Sankofa,music venue,http://base.semlab.io/entity/Q18874
