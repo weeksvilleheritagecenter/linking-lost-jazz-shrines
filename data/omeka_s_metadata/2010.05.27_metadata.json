@@ -26,7 +26,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:modified": {
-    "@value": "2020-07-17T00:26:50+00:00",
+    "@value": "2020-07-17T00:51:18+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:media": [
@@ -828,6 +828,14 @@
       "is_public": true,
       "@id": "http://base.semlab.io/entity/Q18857",
       "o:label": "Jazz 966\t"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18844",
+      "o:label": "Club 243\t"
     },
     {
       "type": "uri",
