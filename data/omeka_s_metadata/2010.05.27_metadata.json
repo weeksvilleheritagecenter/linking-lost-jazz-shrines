@@ -1,4 +1,4 @@
-﻿{
+{
   "@context": "http://whcarchives.org/api-context",
   "@id": "http://whcarchives.org/api/items/507",
   "@type": [
@@ -26,7 +26,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:modified": {
-    "@value": "2020-05-18T02:38:30+00:00",
+    "@value": "2020-07-17T00:26:50+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:media": [
@@ -820,6 +820,14 @@
       "is_public": true,
       "@value": "Baldwin, James, 1924-1987. Blues for Mister Charlie.",
       "@language": "en"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18857",
+      "o:label": "Jazz 966\t"
     },
     {
       "type": "uri",
