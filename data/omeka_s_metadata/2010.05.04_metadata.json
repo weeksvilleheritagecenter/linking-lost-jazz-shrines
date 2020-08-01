@@ -625,7 +625,7 @@
       "property_label": "Subject",
       "is_public": true,
       "@id": "http://base.semlab.io/entity/Q33",
-      "o:label": "Coltrane"
+      "o:label": "John Coltrane"
     },
     {
       "type": "uri",
