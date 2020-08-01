@@ -1,5 +1,5 @@
 Entity, RDF Type, URI
-Willard Jenkins,person,
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
 Max Roach,person,http://base.semlab.io/entity/Q66
 Jimmy Morton,person,http://base.semlab.io/entity/Q18966
 Miles Davis,person,http://base.semlab.io/entity/Q41
