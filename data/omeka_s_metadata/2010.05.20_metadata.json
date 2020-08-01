@@ -1,4 +1,4 @@
-﻿{
+{
   "@context": "http://whcarchives.org/api-context",
   "@id": "http://whcarchives.org/api/items/821",
   "@type": [
@@ -26,7 +26,7 @@
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:modified": {
-    "@value": "2020-08-01T17:52:47+00:00",
+    "@value": "2020-08-01T18:04:22+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:media": [],
@@ -305,8 +305,8 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q824",
-      "o:label": "Etta James"
+      "@id": "http://base.semlab.io/entity/Q18944",
+      "o:label": "Etta Jones"
     },
     {
       "type": "uri",
