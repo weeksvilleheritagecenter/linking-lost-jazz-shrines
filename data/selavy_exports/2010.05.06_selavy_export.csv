@@ -1,66 +1,66 @@
 Entity, RDF Type, URI
 Brooklyn,borough,http://base.semlab.io/entity/Q18808
-Jo Ann Cheatham,person,False
+Jo Ann Cheatham,person,http://base.semlab.io/entity/Q18968
 The East,music venue,http://base.semlab.io/entity/Q18885
-Leon Thomas,person,False
+Leon Thomas,person,http://base.semlab.io/entity/Q18983
 Pharoah Sanders,person,https://base.semlab.io/entity/Q8
 Nina Simone,person,https://base.semlab.io/entity/Q1209
-Jazz 966,music venue,False
+Jazz 966,music venue,http://base.semlab.io/entity/Q18857
 Dave Brubeck,person,https://base.semlab.io/entity/Q311
 Ahmad Jamal,person,https://base.semlab.io/entity/Q665
 Thelonius Monk,person,https://base.semlab.io/entity/Q71
 Nat “King” Cole,person,https://base.semlab.io/entity/Q25
-The Flamingo Lounge,music venue,False
+The Flamingo Lounge,music venue,http://base.semlab.io/entity/Q18853
 Brownies,music venue,http://base.semlab.io/entity/Q18840
-C. Scoby Stroman,person,False
-Tony's Grand Dean,music venue,False
-Sista’s Place,music venue,False
-Jean Carn,person,False
-Kiane Zawadi,person,False
+C. Scoby Stroman,person,http://base.semlab.io/entity/Q19022
+Tony's Grand Dean,music venue,http://base.semlab.io/entity/Q18898
+Sista’s Place,music venue,http://base.semlab.io/entity/Q18898
+Jean Carn,person,http://base.semlab.io/entity/Q18960
+Kiane Zawadi,person,http://base.semlab.io/entity/Q18979
 Blue Note,music venue,http://base.semlab.io/entity/Q18835
-Ed Stoute,person,False
-Doug Carn,person,False
-Gary Bartz,person,False
+Ed Stoute,person,http://base.semlab.io/entity/Q18941
+Doug Carn,person,http://base.semlab.io/entity/Q18937
+Gary Bartz,person,http://base.semlab.io/entity/Q18949
 Bill Doggett,person,https://base.semlab.io/entity/Q1580
-Etta Jones,person,False
+Etta Jones,person,http://base.semlab.io/entity/Q18944
 Houston Person,person,https://base.semlab.io/entity/Q968
 Birdland,music venue,http://base.semlab.io/entity/Q18833
-Slug's,music venue,False
+Slug's,music venue,http://base.semlab.io/entity/Q18878
 Billy Higgins,person,https://base.semlab.io/entity/Q204
 Max Roach,person,https://base.semlab.io/entity/Q66
-Torrie McCartney,person,False
+Torrie McCartney,person,http://base.semlab.io/entity/Q19028
 Jackie McLean,person,https://base.semlab.io/entity/Q365
 Roy Hargrove,person,https://base.semlab.io/entity/Q187
-Stefon Harris,person,False
-Roland Alexander,person,False
-The Muse,music venue,False
+Stefon Harris,person,http://base.semlab.io/entity/Q19025
+Roland Alexander,person,http://base.semlab.io/entity/Q19017
+The Muse,music venue,http://base.semlab.io/entity/Q18894
 Randy Weston,person,https://base.semlab.io/entity/Q657
-Leroy Applin,person,False
-Kenyatta Beasley,person,False
-Up Over Jazz Café,music venue,False
-Viola Plummer,person,False
+Leroy Applin,person,http://base.semlab.io/entity/Q18985
+Kenyatta Beasley,person,http://base.semlab.io/entity/Q18978
+Up Over Jazz Café,music venue,http://base.semlab.io/entity/Q18903
+Viola Plummer,person,http://base.semlab.io/entity/Q19032
 Barry Harris,person,https://base.semlab.io/entity/Q1009
-Medgar Evers College,music venue,False
+Medgar Evers College,music venue,http://base.semlab.io/entity/Q18864
 Arlington Inn,music venue,http://base.semlab.io/entity/Q18828
 Sonya Ballroom (Akbar Hall),music venue,http://base.semlab.io/entity/Q18881
 Baby Grand Brooklyn,music venue,http://base.semlab.io/entity/Q18830
 Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
-Lennox Lounge,music venue,False
-The Jazz Standard,music group,False
+Lennox Lounge,music venue,http://base.semlab.io/entity/Q18861
+The Jazz Standard,music group,http://base.semlab.io/entity/Q18816
 Abbey Lincoln,person,https://base.semlab.io/entity/Q1386
 Sun Ra,person,https://base.semlab.io/entity/Q52
-Pookie's,music venue,False
-Dizzy's Club,music venue,False
+Pookie's,music venue,http://base.semlab.io/entity/Q18869
+Dizzy's Club,music venue,http://base.semlab.io/entity/Q18850
 Harlem Stage,music venue,https://base.semlab.io/entity/Q18856
-Solomon’s Porch,music venue,False
-Maurice Brown,person,False
-St. Nick’s Pub,music venue,False
-Brooklyn Academy of Music,music venue,False
-Jitu Weusi,person,False
-Alma Carroll,person,False
+Solomon’s Porch,music venue,http://base.semlab.io/entity/Q18880
+Maurice Brown,person,http://base.semlab.io/entity/Q18990
+St. Nick’s Pub,music venue,http://base.semlab.io/entity/Q18882
+Brooklyn Academy of Music,music venue,http://base.semlab.io/entity/Q18837
+Jitu Weusi,person,http://base.semlab.io/entity/Q18967
+Alma Carroll,person,http://base.semlab.io/entity/Q18915
 Roslind Blair,person,http://base.semlab.io/entity/Q19020
-Bernice Brooks,person,False
-Melba Joyce,person,False
+Bernice Brooks,person,http://base.semlab.io/entity/Q18919
+Melba Joyce,person,http://base.semlab.io/entity/Q18993
 Joanne Brackeen,person,https://base.semlab.io/entity/Q873
 Andy Kirk,person,https://base.semlab.io/entity/Q304
-Morris-Jumel Mansion,music venue,False
+Morris-Jumel Mansion,music venue,http://base.semlab.io/entity/Q18865
