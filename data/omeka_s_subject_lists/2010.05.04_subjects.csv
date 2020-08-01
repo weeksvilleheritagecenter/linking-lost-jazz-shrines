@@ -5,32 +5,93 @@ Sort,Subject,URI
 4,Long Island University,http://id.loc.gov/vocabulary/organizations/nbliu
 5,"Pearl Harbor (Hawaii), Attack on, 1941",http://id.loc.gov/authorities/subjects/sh85099030
 6,"Coney Island (New York, N.Y.)",http://id.loc.gov/authorities/subjects/sh87001319
-7,"Ebbets Field (New York, N.Y.)",
+7,"en Ebbets Field (New York, N.Y.)",
 8,King Pleasure,http://base.semlab.io/entity/Q1783
 9,Charlie Parker,http://base.semlab.io/entity/Q13
 10,Billie Holiday,http://base.semlab.io/entity/Q1415
 11,Ella Fitzgerald,http://base.semlab.io/entity/Q127
 12,Max Roach,http://base.semlab.io/entity/Q66
-13,Count Basie (Musical group),
-14,Sarah Vaughan,http://base.semlab.io/entity/Q93
-15,George Shearing,http://base.semlab.io/entity/Q284
-16,Art Blakey,http://base.semlab.io/entity/Q281
-17,The Jazz Messengers,http://base.semlab.io/entity/Q18825
-18,Horace Silver,http://base.semlab.io/entity/Q331
-19,Grant Green,http://base.semlab.io/entity/Q18951
-20,Shirley Scott,http://base.semlab.io/entity/Q1727
-21,Kenny Burrell,http://base.semlab.io/entity/Q413
-22,Ahmed Abdul-Malik,http://base.semlab.io/entity/Q18912
-23,Herbie Mann,http://base.semlab.io/entity/Q1537
-24,Pratt Institute,http://id.loc.gov/vocabulary/organizations/nbp
-25,Gary Bartz,http://base.semlab.io/entity/Q18949
-26,Freddie Hubbard,http://base.semlab.io/entity/Q934
-27,Roland Kirk,http://base.semlab.io/entity/Q1909
-28,Pharoah Sanders,http://base.semlab.io/entity/Q8
-29,Chicago (Ill.),https://id.loc.gov/authorities/n78086438
-30,Randy Weston,http://base.semlab.io/entity/Q657
-31,Brooklyn,http://base.semlab.io/entity/Q18808
-32,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771
-33,Jazz,http://id.loc.gov/authorities/subjects/sh85069833
-34,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835
-35,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
+13,Sarah Vaughan,http://base.semlab.io/entity/Q93
+14,George Shearing,http://base.semlab.io/entity/Q284
+15,Art Blakey,http://base.semlab.io/entity/Q281
+16,The Jazz Messengers,http://base.semlab.io/entity/Q18825
+17,Horace Silver,http://base.semlab.io/entity/Q331
+18,Grant Green,http://base.semlab.io/entity/Q18951
+19,Shirley Scott,http://base.semlab.io/entity/Q1727
+20,Kenny Burrell,http://base.semlab.io/entity/Q413
+21,Ahmed Abdul-Malik,http://base.semlab.io/entity/Q18912
+22,Herbie Mann,http://base.semlab.io/entity/Q1537
+23,Pratt Institute,http://id.loc.gov/vocabulary/organizations/nbp
+24,Gary Bartz,http://base.semlab.io/entity/Q18949
+25,Freddie Hubbard,http://base.semlab.io/entity/Q934
+26,Roland Kirk,http://base.semlab.io/entity/Q1909
+27,Pharoah Sanders,http://base.semlab.io/entity/Q8
+28,Chicago (Ill.),https://id.loc.gov/authorities/n78086438
+29,Randy Weston,http://base.semlab.io/entity/Q657
+30,Jitu Weusi,http://base.semlab.io/entity/Q18967
+31,Willard Jenkins,http://base.semlab.io/entity/Q19038
+32,Frankie Lymón,http://base.semlab.io/entity/Q18946
+33,Willie Jones,http://base.semlab.io/entity/Q19039
+34,Count Basie,http://base.semlab.io/entity/Q72
+35,Joe Williams,http://base.semlab.io/entity/Q2018
+36,Teddy Wilson,http://base.semlab.io/entity/Q239
+37,Scoby Stroman,http://base.semlab.io/entity/Q19022
+38,Chief Bey,http://base.semlab.io/entity/Q18932
+39,Ruth Brown,http://base.semlab.io/entity/Q848
+40,Kingston Lounge,http://base.semlab.io/entity/Q18860
+41,Birdland,http://base.semlab.io/entity/Q18833
+42,Putnam Central,http://base.semlab.io/entity/Q18871
+43,Tony's Grand Dean,http://base.semlab.io/entity/Q18898
+44,The East,http://base.semlab.io/entity/Q18885
+45,Rector Bailey,http://base.semlab.io/entity/Q19012
+46,Blue Coronet,http://base.semlab.io/entity/Q18834
+47,Club La Marchal,http://base.semlab.io/entity/Q18847
+48,Turbo Village,http://base.semlab.io/entity/Q18901
+49,Tip Top Inn,http://base.semlab.io/entity/Q18897
+50,Bobby Timmons,http://base.semlab.io/entity/Q18924
+51,Lee Morgan,http://base.semlab.io/entity/Q959
+52,Wayne Shorter,http://base.semlab.io/entity/Q410
+53,Dakota Staton,http://base.semlab.io/entity/Q973
+54,Gloria Lynne,http://base.semlab.io/entity/Q420
+55,Symphony Sid,http://base.semlab.io/entity/Q208
+56,Miles Davis,http://base.semlab.io/entity/Q41
+57,Ornette Coleman,http://base.semlab.io/entity/Q23
+58,Cannonball Adderley,http://base.semlab.io/entity/Q777
+59,Jymie Merritt,http://base.semlab.io/entity/Q18974
+60,John Coltrane,http://base.semlab.io/entity/Q33
+61,Leon Thomas,http://base.semlab.io/entity/Q18983
+62,Louis Jordan,http://base.semlab.io/entity/Q53
+63,Chick Webb,http://base.semlab.io/entity/Q177
+64,Oscar Brown,http://base.semlab.io/entity/Q1393
+65,Mtume,http://base.semlab.io/entity/Q18818
+66,Rustic Tavern,http://base.semlab.io/entity/Q18873
+67,Sugar Hill,http://base.semlab.io/entity/Q18883
+68,Williamsburg Music Center,http://base.semlab.io/entity/Q18909
+69,Jazz 966,http://base.semlab.io/entity/Q18857
+70,Sista's Place,http://base.semlab.io/entity/Q18876
+71,Torrie McCartney,http://base.semlab.io/entity/Q19028
+72,Sam Pinn,http://base.semlab.io/entity/Q19021
+73,Joe Carroll,http://base.semlab.io/entity/Q18969
+74,Viola Plummer,http://base.semlab.io/entity/Q19032
+75,Alma Carroll,http://base.semlab.io/entity/Q18915
+76,Ron Warwell,http://base.semlab.io/entity/Q19018
+77,Elvin Jones,http://base.semlab.io/entity/Q205
+78,Carlos Garnett,http://base.semlab.io/entity/Q18929
+79,Kwesi Mensah Wali,http://base.semlab.io/entity/Q18980
+80,Sam the Record Man,
+81,Joe Wells,
+82,Frank Edward Weston,
+83,The Continental,http://base.semlab.io/entity/Q18884
+84,The Berry Brothers,http://base.semlab.io/entity/Q18824
+85,Branker's,http://base.semlab.io/entity/Q18836
+86,The Monaco,http://base.semlab.io/entity/Q18893
+87,Two Steps Down,http://base.semlab.io/entity/Q18902
+88,Fats Domino,http://base.semlab.io/entity/Q1463
+89,Village Vanguard,http://base.semlab.io/entity/Q20531
+90,Afro Arts Design,http://base.semlab.io/entity/Q20532
+91,Azzedin Weston,http://base.semlab.io/entity/Q20533
+92,Brooklyn,http://base.semlab.io/entity/Q18808
+93,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771
+94,Jazz,http://id.loc.gov/authorities/subjects/sh85069833
+95,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835
+96,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
