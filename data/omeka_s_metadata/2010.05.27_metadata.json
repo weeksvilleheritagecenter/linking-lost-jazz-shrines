@@ -1,11 +1,11 @@
 {
   "@context": "http://whcarchives.org/api-context",
-  "@id": "http://whcarchives.org/api/items/517",
+  "@id": "http://whcarchives.org/api/items/507",
   "@type": [
     "o:Item",
     "oc:OralHistory"
   ],
-  "o:id": 517,
+  "o:id": 507,
   "o:is_public": true,
   "o:owner": {
     "@id": "http://whcarchives.org/api/users/1",
@@ -20,27 +20,19 @@
     "o:id": 4
   },
   "o:thumbnail": null,
-  "o:title": "Jitu Weusi",
+  "o:title": "Group 2 Oral History",
   "o:created": {
-    "@value": "2019-09-16T19:50:00+00:00",
+    "@value": "2019-09-16T19:49:06+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:modified": {
-    "@value": "2020-08-01T19:10:14+00:00",
+    "@value": "2020-07-17T00:51:18+00:00",
     "@type": "http://www.w3.org/2001/XMLSchema#dateTime"
   },
   "o:media": [
     {
-      "@id": "http://whcarchives.org/api/media/708",
-      "o:id": 708
-    },
-    {
-      "@id": "http://whcarchives.org/api/media/709",
-      "o:id": 709
-    },
-    {
-      "@id": "http://whcarchives.org/api/media/710",
-      "o:id": 710
+      "@id": "http://whcarchives.org/api/media/685",
+      "o:id": 685
     }
   ],
   "o:item_set": [
@@ -55,7 +47,7 @@
       "property_id": 1,
       "property_label": "Title",
       "is_public": true,
-      "@value": "Jitu Weusi",
+      "@value": "Group 2 Oral History",
       "@language": "en"
     }
   ],
@@ -65,11 +57,35 @@
       "property_id": 4,
       "property_label": "Description",
       "is_public": true,
-      "@value": "Jitu Weusi is born and raised in Brooklyn, New York.  From a large family, he began selling newspapers with his cousins, Charles & Leroy Morris, at their newsstand, at the intersection of Franklin & Fulton. As he was working, he was introduced to a few jazz and jazz musicians  through the outdoor speakers of Sam the Record Man, a record store just across the street from the newsstand.\n\nAs a teenager, he would spend time at Brankers, a jazz bar on 155th and 7th, to the wee hours of the morning.He worked as a waiter at Village Gate, where he was introduced to Nina Simone and Thelonius Monk.\nHis cousins frequented the Putnam Central Club, and The Kingston Lounge, the Continental and the Blue Coronet.\n\nHe attended Long Island University, and became a teacher in September 1962. In the mid-sixties, he became involved in political activities, and in 1968, he and other founded the African American Student Association. It was there that he was encouraged by his students to form their own cultural center.  \n\nThe East was centered around non-western ideologies, and was primarily an all black institutions. \n\nA formal extension of the East - the Uhuru Sasa School, was subsidized by profits made by musicians. They hired a cook. Ms. Lottie Brown, who contributed to The East’s reputation and budget. From 1970-77 the East thrived, and eventually Weusi  & the East went on to form the International African Art Festival, and he was instrumental in the formation of the Central Brooklyn Jazz Consortium.\n",
+      "@value": "Interview participants Tulivu Donna Cumberpatch, Jo Ann Cheatham, and Harold Valle notably discuss the interiors of Brooklyn jazz lounges including the East, the Kingston Lounge, and Putnam Central and identified Turbo Village, the Arlington Inn, and the Lucky Spot.",
       "@language": "en"
     }
   ],
   "dcterms:contributor": [
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18975",
+      "o:label": "Kaitlyn Greenidge"
+    },
+    {
+      "type": "uri",
+      "property_id": 6,
+      "property_label": "Contributor",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19004",
+      "o:label": "Pamela Green"
+    },
     {
       "type": "uri",
       "property_id": 6,
@@ -89,12 +105,12 @@
   ],
   "dcterms:coverage": [
     {
-      "type": "literal",
+      "type": "uri",
       "property_id": 14,
       "property_label": "Coverage",
       "is_public": true,
-      "@value": "[1950s-1990s, 2010]",
-      "@language": "en"
+      "@id": "http://base.semlab.io/entity/Q18808",
+      "o:label": "Brooklyn"
     }
   ],
   "dcterms:creator": [
@@ -103,8 +119,24 @@
       "property_id": 2,
       "property_label": "Creator",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18967",
-      "o:label": "Jitu Weusi"
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu Donna Cumberbatch"
+    },
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18968",
+      "o:label": "Jo Ann Cheatham"
+    },
+    {
+      "type": "uri",
+      "property_id": 2,
+      "property_label": "Creator",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18955",
+      "o:label": "Harold Valle"
     }
   ],
   "dcterms:date": [
@@ -113,7 +145,7 @@
       "property_id": 7,
       "property_label": "Date",
       "is_public": true,
-      "@value": "April 6, 2010",
+      "@value": "July 8, 2011",
       "@language": "en"
     }
   ],
@@ -123,7 +155,7 @@
       "property_id": 10,
       "property_label": "Identifier",
       "is_public": true,
-      "@value": "2010.05.04"
+      "@value": "2010.05.27"
     }
   ],
   "dcterms:language": [
@@ -146,247 +178,17 @@
       "@language": "en"
     }
   ],
-  "dcterms:subject": [
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18906",
-      "o:label": "Village Gate"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1209",
-      "o:label": "Nina Simone"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q71",
-      "o:label": "Thelonious Monk"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://id.loc.gov/vocabulary/organizations/nbliu",
-      "o:label": "Long Island University"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://id.loc.gov/authorities/subjects/sh85099030",
-      "o:label": "Pearl Harbor (Hawaii), Attack on, 1941"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://id.loc.gov/authorities/subjects/sh87001319",
-      "o:label": "Coney Island (New York, N.Y.)"
-    },
+  "dcterms:rights": [
     {
       "type": "literal",
-      "property_id": 3,
-      "property_label": "Subject",
+      "property_id": 15,
+      "property_label": "Rights",
       "is_public": true,
-      "@value": "Ebbets Field (New York, N.Y.)",
+      "@value": "Weeksville Heritage Center",
       "@language": "en"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1783",
-      "o:label": "King Pleasure"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q13",
-      "o:label": "Charlie Parker"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1415",
-      "o:label": "Billie Holiday"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q127",
-      "o:label": "Ella Fitzgerald"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q66",
-      "o:label": "Max Roach"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q93",
-      "o:label": "Sarah Vaughan"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q284",
-      "o:label": "George Shearing"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q281",
-      "o:label": "Art Blakey"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18825",
-      "o:label": "The Jazz Messengers"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q331",
-      "o:label": "Horace Silver"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18951",
-      "o:label": "Grant Green"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1727",
-      "o:label": "Shirley Scott"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q413",
-      "o:label": "Kenny Burrell"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18912",
-      "o:label": "Ahmed Abdul-Malik"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1537",
-      "o:label": "Herbie Mann"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://id.loc.gov/vocabulary/organizations/nbp",
-      "o:label": "Pratt Institute"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18949",
-      "o:label": "Gary Bartz"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q934",
-      "o:label": "Freddie Hubbard"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1909",
-      "o:label": "Roland Kirk"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q8",
-      "o:label": "Pharoah Sanders"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "https://id.loc.gov/authorities/n78086438",
-      "o:label": "Chicago (Ill.)"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q657",
-      "o:label": "Randy Weston"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18967",
-      "o:label": "Jitu Weusi"
-    },
+    }
+  ],
+  "dcterms:subject": [
     {
       "type": "uri",
       "property_id": 3,
@@ -400,88 +202,16 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18946",
-      "o:label": "Frankie Lymón\t"
+      "@id": "http://base.semlab.io/entity/Q18955",
+      "o:label": "Harold Valle"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19039",
-      "o:label": "Willie Jones "
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q72",
-      "o:label": "Count Basie"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q2018",
-      "o:label": "Joe Williams"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q239",
-      "o:label": "Teddy Wilson"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19022",
-      "o:label": "Scoby Stroman"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18932",
-      "o:label": "Chief Bey\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q848",
-      "o:label": "Ruth Brown"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18860",
-      "o:label": "Kingston Lounge"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18833",
-      "o:label": "Birdland"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18871",
-      "o:label": "Putnam Central"
+      "@id": "http://base.semlab.io/entity/Q18968",
+      "o:label": "Jo Ann Cheatham"
     },
     {
       "type": "uri",
@@ -496,184 +226,72 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18885",
-      "o:label": "The East"
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu Donna Cumberbatch"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19012",
-      "o:label": "Rector Bailey"
+      "@id": "http://base.semlab.io/entity/Q18936",
+      "o:label": "Donald Sangster"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18834",
-      "o:label": "Blue Coronet"
+      "@id": "http://base.semlab.io/entity/Q18860",
+      "o:label": "Kingston Lounge"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18847",
-      "o:label": "Club La Marchal"
+      "@id": "http://base.semlab.io/entity/Q19100",
+      "o:label": "Vincent Jones"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18901",
-      "o:label": "Turbo Village"
+      "@id": "http://base.semlab.io/entity/Q18871",
+      "o:label": "Putnam Central"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18897",
-      "o:label": "Tip Top Inn"
+      "@id": "http://base.semlab.io/entity/Q18966",
+      "o:label": "Jimmy Morton"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18924",
-      "o:label": "Bobby Timmons\t"
+      "@id": "http://base.semlab.io/entity/Q18953",
+      "o:label": "Harold Cumberbatch"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q959",
-      "o:label": "Lee Morgan"
+      "@id": "http://base.semlab.io/entity/Q71",
+      "o:label": "Thelonious Monk\t"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q410",
-      "o:label": "Wayne Shorter"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q973",
-      "o:label": "Dakota Staton"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q420",
-      "o:label": "Gloria Lynne\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q208",
-      "o:label": "Symphony Sid\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q41",
-      "o:label": "Miles Davis\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q23",
-      "o:label": "Ornette Coleman\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q777",
-      "o:label": "Cannonball Adderley\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18974",
-      "o:label": "Jymie Merritt\t"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q33",
-      "o:label": "Coltrane"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18983",
-      "o:label": "Leon Thomas"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q53",
-      "o:label": "Louis Jordan"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q177",
-      "o:label": "Chick Webb"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1393",
-      "o:label": "Oscar Brown"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18818",
-      "o:label": "Mtume"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18873",
-      "o:label": "Rustic Tavern"
+      "@id": "http://base.semlab.io/entity/Q19011",
+      "o:label": "Ray Abrams"
     },
     {
       "type": "uri",
@@ -688,16 +306,464 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18909",
-      "o:label": "Williamsburg Music Center"
+      "@id": "http://base.semlab.io/entity/Q18942",
+      "o:label": "Elaine Applin"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18857",
-      "o:label": "Jazz 966"
+      "@id": "http://base.semlab.io/entity/Q18885",
+      "o:label": "The East"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18985",
+      "o:label": "Leroy Applin"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q657",
+      "o:label": "Randy Weston\t"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19041",
+      "o:label": "Wilson Hayes"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q200",
+      "o:label": "McCoy Tyner"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q656",
+      "o:label": "Mamie Smith"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q24",
+      "o:label": "Coleman Hawkins"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18815",
+      "o:label": "Jazz Hounds"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18886",
+      "o:label": "The Elks"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1909",
+      "o:label": "Rahsaan Roland Kirk"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q8",
+      "o:label": "Pharoah Sanders"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18983",
+      "o:label": "Leon Thomas"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18960",
+      "o:label": "Jean Carn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18937",
+      "o:label": "Doug Carn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q95",
+      "o:label": "Big Maybelle"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18828",
+      "o:label": "Arlington Inn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18900",
+      "o:label": "Town Hill"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q457",
+      "o:label": "Howard McGhee"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19013",
+      "o:label": "Dickie Habersham-Bey"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q46",
+      "o:label": "Joe Williams"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18901",
+      "o:label": "Turbo Village"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18863",
+      "o:label": "Lucky Spot"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18858",
+      "o:label": "Jefferson Bar"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18890",
+      "o:label": "The Id"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q63",
+      "o:label": "Clifford Jordan"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q55",
+      "o:label": "Kenny Dorham"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18941",
+      "o:label": "Ed Stoute"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18853",
+      "o:label": "Flamingo Lounge"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18887",
+      "o:label": "The Fantasy"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18897",
+      "o:label": "Tip Top Inn"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18840",
+      "o:label": "Brownie's"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18972",
+      "o:label": "John Orr"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18891",
+      "o:label": "Jazz Spot"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18847",
+      "o:label": "Club La Marchal"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18862",
+      "o:label": "Brevoort Theater"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18849",
+      "o:label": "Crescent Lounge"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18910",
+      "o:label": "Willoughby Temple"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18879",
+      "o:label": "Smuckers"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18837",
+      "o:label": "Brooklyn Academy of Music"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18939",
+      "o:label": "Eddie Freeman"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1834",
+      "o:label": "James Baldwin"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18973",
+      "o:label": "John Stevenson"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q1567",
+      "o:label": "Lee Blair"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q52",
+      "o:label": "Sun Ra"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18854",
+      "o:label": "Grecian Cave"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18870",
+      "o:label": "Pumpkin's"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18920",
+      "o:label": "Bill Rutherford"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18994",
+      "o:label": "Melvin Sparks"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18904",
+      "o:label": "Valhalla"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18889",
+      "o:label": "The Hole"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q102",
+      "o:label": "Betty Carter"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19101",
+      "o:label": "Pratt Institute"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18903",
+      "o:label": "Up Over Jazz Café"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18935",
+      "o:label": "Enos Payne"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18833",
+      "o:label": "Birdland"
+    },
+    {
+      "type": "uri",
+      "property_id": 3,
+      "property_label": "Subject",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q34",
+      "o:label": "Wynton Marsalis"
     },
     {
       "type": "uri",
@@ -712,38 +778,6 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19028",
-      "o:label": "Torrie McCartney"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19021",
-      "o:label": "Sam Pinn"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18969",
-      "o:label": "Joe Carroll"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19032",
-      "o:label": "Viola Plummer"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
       "@id": "http://base.semlab.io/entity/Q18915",
       "o:label": "Alma Carroll"
     },
@@ -752,125 +786,56 @@
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q19018",
-      "o:label": "Ron Warwell"
+      "@id": "http://base.semlab.io/entity/Q18874",
+      "o:label": "Sankofa"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q205",
-      "o:label": "Elvin Jones"
+      "@id": "http://base.semlab.io/entity/Q18838",
+      "o:label": "Brooklyn Apollo"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18929",
-      "o:label": "Carlos Garnett"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18980",
-      "o:label": "Kwesi Mensah Wali"
+      "@id": "http://base.semlab.io/entity/Q18877",
+      "o:label": "Slave Theater"
     },
     {
       "type": "literal",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@value": "Sam the Record Man"
+      "@value": "Club Jest US",
+      "@language": "en"
     },
     {
       "type": "literal",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@value": "Joe Wells"
-    },
-    {
-      "type": "literal",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@value": "Frank Edward Weston"
+      "@value": "Baldwin, James, 1924-1987. Blues for Mister Charlie.",
+      "@language": "en"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18884",
-      "o:label": "The Continental"
+      "@id": "http://base.semlab.io/entity/Q18857",
+      "o:label": "Jazz 966\t"
     },
     {
       "type": "uri",
       "property_id": 3,
       "property_label": "Subject",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18824",
-      "o:label": "The Berry Brothers"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18836",
-      "o:label": "Branker's"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18893",
-      "o:label": "The Monaco"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18902",
-      "o:label": "Two Steps Down"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q1463",
-      "o:label": "Fats Domino"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q20531",
-      "o:label": "Village Vanguard"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q20532",
-      "o:label": "Afro Arts Design"
-    },
-    {
-      "type": "uri",
-      "property_id": 3,
-      "property_label": "Subject",
-      "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q20533",
-      "o:label": "Azzedin Weston"
+      "@id": "http://base.semlab.io/entity/Q18844",
+      "o:label": "Club 243\t"
     },
     {
       "type": "uri",
@@ -919,6 +884,30 @@
       "property_id": 69,
       "property_label": "interviewer",
       "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q19004",
+      "o:label": "Pamela Green"
+    },
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18963",
+      "o:label": "Jennifer Scott"
+    },
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18975",
+      "o:label": "Kaitlyn Greenidge"
+    },
+    {
+      "type": "uri",
+      "property_id": 69,
+      "property_label": "interviewer",
+      "is_public": true,
       "@id": "http://base.semlab.io/entity/Q19038",
       "o:label": "Willard Jenkins"
     }
@@ -929,19 +918,27 @@
       "property_id": 68,
       "property_label": "interviewee",
       "is_public": true,
-      "@id": "http://base.semlab.io/entity/Q18967",
-      "o:label": "Jitu Weusi"
+      "@id": "http://base.semlab.io/entity/Q19029",
+      "o:label": "Tulivu Donna Cumberbatch"
+    },
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18968",
+      "o:label": "Jo Ann Cheatham"
+    },
+    {
+      "type": "uri",
+      "property_id": 68,
+      "property_label": "interviewee",
+      "is_public": true,
+      "@id": "http://base.semlab.io/entity/Q18955",
+      "o:label": "Harold Valle"
     }
   ],
   "oc:location": [
-    {
-      "type": "literal",
-      "property_id": 191,
-      "property_label": "Location",
-      "is_public": true,
-      "@value": "Central Brooklyn Jazz Consortium ",
-      "@language": "en"
-    },
     {
       "type": "uri",
       "property_id": 191,
@@ -957,15 +954,7 @@
       "property_id": 188,
       "property_label": "Duration",
       "is_public": true,
-      "@value": "1 hour, 37 minutes, 37 seconds",
-      "@language": "en"
-    },
-    {
-      "type": "literal",
-      "property_id": 188,
-      "property_label": "Duration",
-      "is_public": true,
-      "@value": "54 minutes, 23 seconds",
+      "@value": "1 hour, 14 minutes",
       "@language": "en"
     }
   ]
