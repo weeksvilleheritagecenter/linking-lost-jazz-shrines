@@ -1,88 +1,83 @@
 Entity, RDF Type, URI
-Jitu Weusi,person,FALSE
-Willard Jenkins,person,FALSE
-Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Willard Jenkins,person,http://base.semlab.io/entity/Q19038
+Jitu Weusi,person,http://base.semlab.io/entity/Q18967
+Pharoah Sanders,person,http://base.semlab.io/entity/Q8
 Randy Weston,person,http://base.semlab.io/entity/Q657
-Frankie LymÃ³n,person,FALSE
-Willie Jones,person,FALSE
+Willie Jones,person,http://base.semlab.io/entity/Q19039
+Art Blakey,person,http://base.semlab.io/entity/Q281
 Max Roach,person,http://base.semlab.io/entity/Q66
-Count Basie,person,FALSE
-Joe Williams,person,FALSE
+Freddie Hubbard,person,http://base.semlab.io/entity/Q934
+Count Basie,person,http://base.semlab.io/entity/Q72
+Frankie Lymón,person,http://base.semlab.io/entity/Q18946
+Joe Williams,person,http://base.semlab.io/entity/Q2018
 Sarah Vaughan,person,http://base.semlab.io/entity/Q93
-Teddy Wilson,person,FALSE
+Teddy Wilson,person,http://base.semlab.io/entity/Q239
 George Shearing,person,http://base.semlab.io/entity/Q284
-Scoby Strohman,person,FALSE
-Chief Bey,person,FALSE
-Ruth Brown,person,FALSE
-Fats Domino,person,FALSE
+Scoby Strohman,person,http://base.semlab.io/entity/Q19022
+Ruth Brown,person,http://base.semlab.io/entity/Q848
+Fats Domino,person,http://base.semlab.io/entity/Q1463
 Charlie Parker,person,http://base.semlab.io/entity/Q13
 Billie Holiday,person,http://base.semlab.io/entity/Q1415
 Ella Fitzgerald,person,http://base.semlab.io/entity/Q127
-King Pleasure,person,http://base.semlab.io/entity/Q1783
-Sam the Record Man,,FALSE
-Kingston Lounge,,FALSE
-Art Blakey,,http://base.semlab.io/entity/Q281
 Nina Simone,person,http://base.semlab.io/entity/Q1209
 Ahmed Abdul-Malik,person,http://base.semlab.io/entity/Q18912
 Herbie Mann,person,http://base.semlab.io/entity/Q1537
-Joe Wells,,FALSE
-Thelonious Monk,person,http://base.semlab.io/entity/Q71
-Village Gate,music venue,http://base.semlab.io/entity/Q18906
-Birdland,,FALSE
-Village Vanguard,,FALSE
-Putnam Central,,FALSE
-Tony's Grand Dean,,FALSE
-The Continental,,FALSE
-The East,,FALSE
-Freddie Hubbard,person,http://base.semlab.io/entity/Q934
-Rector Bailey,,FALSE
-Berry Brothers,,FALSE
-Blue Coronet,,FALSE
-Club La Marchal,,FALSE
-Turbo VIllage,,FALSE
-Tip Top Inn,,FALSE
-Monaco,,FALSE
+Rector Bailey,person,http://base.semlab.io/entity/Q19012
 Jazz Messengers,music group,http://base.semlab.io/entity/Q18825
-Bobby Timmons,,FALSE
-Lee Morgan,,FALSE
-Wayne Shorter,,FALSE
+Bobby Timmons,person,http://base.semlab.io/entity/Q18924
+Lee Morgan,person,http://base.semlab.io/entity/Q959
+Wayne Shorter,person,http://base.semlab.io/entity/Q410
 Kenny Burrell,person,http://base.semlab.io/entity/Q413
 Grant Green,person,http://base.semlab.io/entity/Q18951
-Dakota Staton,,FALSE
-Gloria Lynne,,FALSE
-Symphony Sid,,FALSE
-Miles Davis,,FALSE
-Ornette Coleman,,FALSE
+Dakota Staton,person,http://base.semlab.io/entity/Q973
+Gloria Lynne,person,http://base.semlab.io/entity/Q420
+Symphony Sid,person,http://base.semlab.io/entity/Q208
+Miles Davis,person,http://base.semlab.io/entity/Q41
+Ornette Coleman,person,http://base.semlab.io/entity/Q23
 Horace Silver,person,http://base.semlab.io/entity/Q331
-Brankers,,FALSE
+Brankers,music venue,http://base.semlab.io/entity/Q18836
 Shirley Scott,person,http://base.semlab.io/entity/Q1727
-Cannonball Adderley,,FALSE
-Jymie Merritt,,FALSE
-Coltrane,,FALSE
-Leon Thomas,,FALSE
+Leon Thomas,person,http://base.semlab.io/entity/Q18983
 Gary Bartz,person,http://base.semlab.io/entity/Q18949
 Rahsaan Roland Kirk,person,http://base.semlab.io/entity/Q1909
-Louis Jordan,,FALSE
-Chick Webb,,FALSE
-Oscar Brown,,FALSE
-Pharoah Sanders,person,http://base.semlab.io/entity/Q8
-Mtume,,FALSE
-Central Brooklyn Jazz Consortium,,FALSE
-James Hawthorne Bey,,FALSE
-Rustic Tavern,,FALSE
-Sugar Hill,,FALSE
-Williamsburg Music Center,,FALSE
-Jazz 966,,FALSE
-Sista's Place,,FALSE
-Afro Arts Design,,FALSE
-Frank Edward Weston,,FALSE
-Torrie McCarthy,,FALSE
-Sam Pinn,,FALSE
-Joe Carroll,,FALSE
-Viola Plummer,,FALSE
-Alma Carroll,,FALSE
-Ron Warwell,,FALSE
-Azzedin Weston,,FALSE
-Elvin Jones,,FALSE
-Carlos Garnett,,FALSE
-Kwesi Mensah Wali,,FALSE
+Louis Jordan,person,http://base.semlab.io/entity/Q53
+Chick Webb,person,http://base.semlab.io/entity/Q177
+Oscar Brown,person,http://base.semlab.io/entity/Q1393
+James Hawthorne Bey,person,http://base.semlab.io/entity/Q18932
+Rustic Tavern,person,http://base.semlab.io/entity/Q18873
+Torrie McCarthy,person,http://base.semlab.io/entity/Q19028
+Sam Pinn,person,http://base.semlab.io/entity/Q19021
+Ron Warwell,person,http://base.semlab.io/entity/Q19018
+Azzedin Weston,person,http://base.semlab.io/entity/Q20533
+Elvin Jones,person,http://base.semlab.io/entity/Q205
+Carlos Garnett,person,http://base.semlab.io/entity/Q18929
+Kwesi Mensah Wali,person,http://base.semlab.io/entity/Q18980
+Brooklyn,borough,http://base.semlab.io/entity/Q18808
+Kingston Lounge,music venue,http://base.semlab.io/entity/Q18860
+Birdland,music venue,http://base.semlab.io/entity/Q18833
+King Pleasure,person,http://base.semlab.io/entity/Q1783
+Village Vanguard,music venue,http://base.semlab.io/entity/Q20531
+Joe Carroll,person,http://base.semlab.io/entity/Q18969
+Sugar Hill,music venue,http://base.semlab.io/entity/Q18883
+Berry Brothers,music group,http://base.semlab.io/entity/Q18824
+Cannonball Adderley,person,http://base.semlab.io/entity/Q777
+Mtume,music group,http://base.semlab.io/entity/Q18818
+Williamsburg Music Center,music venue,http://base.semlab.io/entity/Q18909
+Jymie Merritt,person,http://base.semlab.io/entity/Q18974
+Thelonious Monk,person,http://base.semlab.io/entity/Q71
+Village Gate,music venue,http://base.semlab.io/entity/Q18906
+Putnam Central,music venue,http://base.semlab.io/entity/Q18871
+Tony's Grand Dean,music venue,http://base.semlab.io/entity/Q18898
+The Continental,music venue,http://base.semlab.io/entity/Q18884
+Blue Coronet,music venue,http://base.semlab.io/entity/Q18834
+Club La Marchal,music venue,http://base.semlab.io/entity/Q18847
+Turbo VIllage,music venue,http://base.semlab.io/entity/Q18901 
+Tip Top Inn,music venue,http://base.semlab.io/entity/Q18897
+Monaco,music venue,http://base.semlab.io/entity/Q18893 
+The East,music venue,http://base.semlab.io/entity/Q18885
+Jazz 966,music venue,http://base.semlab.io/entity/Q18857
+Viola Plummer,person,http://base.semlab.io/entity/Q19032
+Alma Carroll,person,http://base.semlab.io/entity/Q18915
+Sista's Place,music venue,http://base.semlab.io/entity/Q18876
+Afro Arts Design,music venue,http://base.semlab.io/entity/Q20532
+John Coltrane,person,http://base.semlab.io/entity/Q33
