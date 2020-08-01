@@ -2,33 +2,78 @@ Sort,Subject,URI
 1,Sonya Ballroom,http://base.semlab.io/entity/Q18881
 2,Arlington Inn,http://base.semlab.io/entity/Q18828
 3,Baby Grand Brooklyn,http://base.semlab.io/entity/Q18830
-4,Birdland (52nd Street),http://base.semlab.io/entity/Q18833
-5,Rosalind Blair,http://base.semlab.io/entity/Q19020
-6,Blue Coronet,http://base.semlab.io/entity/Q18834
-7,Blue Note,http://base.semlab.io/entity/Q18835
-8,Brooklyn's Jazz scene c. 1990s,
-9,Brownies,http://base.semlab.io/entity/Q18840
-10,Central Brooklyn Jazz Coalition,
-11,Dizzy's Club,http://base.semlab.io/entity/Q18850
-12,Flamingo Lounge,http://base.semlab.io/entity/Q18853
-13,International Women in Jazz,
-14,Jazz 966,http://base.semlab.io/entity/Q18857
-15,Jazz advocacy,
-16,Jazz A Woman's Viewpoint,
-17,Jazz Standard,http://base.semlab.io/entity/Q18816
-18,Lennox Lounge,http://base.semlab.io/entity/Q18861
-19,Pure Jazz Magazine,
-20,Teen Lines Magazine,
-21,Tony's Grand Dean,http://base.semlab.io/entity/Q18898
-22,Sista's Place,http://base.semlab.io/entity/Q18876
-23,Slug's,http://base.semlab.io/entity/Q18878
-24,SOFOCUS (Society of Folks Called Us),
-25,St. Nick's Pub,http://base.semlab.io/entity/Q18882
-26,Scoby Stroman,http://base.semlab.io/entity/Q19022
-27,The East,http://base.semlab.io/entity/Q18885
-28,Brooklyn,http://base.semlab.io/entity/Q18808
-29,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771
-30,Jazz,http://id.loc.gov/authorities/subjects/sh85069833
-31,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069835
-32,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
-33,Harlem Stage,https://base.semlab.io/entity/Q18856
+4,Rosalind Blair,http://base.semlab.io/entity/Q19020
+5,Blue Coronet,http://base.semlab.io/entity/Q18834
+6,Blue Note,http://base.semlab.io/entity/Q18835
+7,Brooklyn's Jazz scene c. 1990s,
+8,Brownies,http://base.semlab.io/entity/Q18840
+9,Central Brooklyn Jazz Coalition,
+10,Dizzy's Club,http://base.semlab.io/entity/Q18850
+11,Flamingo Lounge,http://base.semlab.io/entity/Q18853
+12,International Women in Jazz,
+13,Jazz 966,http://base.semlab.io/entity/Q18857
+14,Jazz advocacy,
+15,Jazz A Woman's Viewpoint,
+16,Jazz Standard,http://base.semlab.io/entity/Q18816
+17,Lennox Lounge,http://base.semlab.io/entity/Q18861
+18,Pure Jazz Magazine,
+19,Teen Lines Magazine,
+20,Tony's Grand Dean,http://base.semlab.io/entity/Q18898
+21,Sista's Place,http://base.semlab.io/entity/Q18876
+22,Slug's,http://base.semlab.io/entity/Q18878
+23,SOFOCUS (Society of Folks Called Us),
+24,St. Nick's Pub,http://base.semlab.io/entity/Q18882
+25,Scoby Stroman,http://base.semlab.io/entity/Q19022
+26,The East,http://base.semlab.io/entity/Q18885
+27,Harlem Stage,https://base.semlab.io/entity/Q18856
+28,Jo Ann Cheatham,http://base.semlab.io/entity/Q18968
+29,Leon Thomas,http://base.semlab.io/entity/Q18983
+30,Pharoah Sanders,http://base.semlab.io/entity/Q8
+31,Nina Simone,http://base.semlab.io/entity/Q1209
+32,Dave Brubeck,http://base.semlab.io/entity/Q311
+33,Ahmad Jamal,http://base.semlab.io/entity/Q665
+34,Thelonious Monk,https://base.semlab.io/entity/Q71
+35,Nat King Cole,https://base.semlab.io/entity/Q25
+36,Jean Carn,http://base.semlab.io/entity/Q18960
+37,Kiane Zawadi,http://base.semlab.io/entity/Q18979
+38,Edwin Stoute,http://base.semlab.io/entity/Q18941
+39,Doug Carn,http://base.semlab.io/entity/Q18937
+40,Gary Bartz,http://base.semlab.io/entity/Q18949
+41,Bill Doggett,https://base.semlab.io/entity/Q1580
+42,Etta Jones,http://base.semlab.io/entity/Q18944
+43,Houston Person,https://base.semlab.io/entity/Q968
+44,Birdland,http://base.semlab.io/entity/Q18833
+45,Slug's,http://base.semlab.io/entity/Q18878
+46,Billy Higgins,https://base.semlab.io/entity/Q204
+47,Max Roach,https://base.semlab.io/entity/Q66
+48,Torrie McCartney,http://base.semlab.io/entity/Q19028
+49,Jackie McLean,https://base.semlab.io/entity/Q365
+50,Roy Hargrove,https://base.semlab.io/entity/Q187
+51,Stefon Harris,http://base.semlab.io/entity/Q19025
+52,Roland Alexander,http://base.semlab.io/entity/Q19017
+53,The Muse,http://base.semlab.io/entity/Q18894
+54,Randy Weston,https://base.semlab.io/entity/Q657
+55,Leroy Applin,http://base.semlab.io/entity/Q18985
+56,Kenyatta Beasley,http://base.semlab.io/entity/Q18978
+57,Up Over Jazz Café,http://base.semlab.io/entity/Q18903
+58,Viola Plummer,http://base.semlab.io/entity/Q19032
+59,Barry Harris,http://base.semlab.io/entity/Q1009
+60,Abbey Lincoln,https://base.semlab.io/entity/Q1386
+61,Sun Ra,https://base.semlab.io/entity/Q52
+62,Pookie's,http://base.semlab.io/entity/Q18869
+63,Solomon's Porch,http://base.semlab.io/entity/Q18880
+64,Maurice Brown,http://base.semlab.io/entity/Q18990
+65,Brooklyn Academy of Music,http://base.semlab.io/entity/Q18837
+66,Jitu Weusi,http://base.semlab.io/entity/Q18967
+67,Medgar Evers College,
+68,Alma Carroll,http://base.semlab.io/entity/Q18915
+69,Bernice Brooks,http://base.semlab.io/entity/Q18919
+70,Melba Joyce,http://base.semlab.io/entity/Q18993
+71,Joanne Brackeen,http://base.semlab.io/entity/Q873
+72,Andy Kirk,http://base.semlab.io/entity/Q304
+73,Morris-Jumel Mansion,http://base.semlab.io/entity/Q18865
+74,Brooklyn,http://base.semlab.io/entity/Q18808
+75,"Bedford-Stuyvesant (New York, N.Y.)",http://id.loc.gov/authorities/names/n91082771
+76,Jazz,http://id.loc.gov/authorities/subjects/sh85069833
+77,Jazz musicians,http://id.loc.gov/authorities/subjects/sh85069833
+78,African American jazz musicians,http://id.loc.gov/authorities/subjects/sh2001006683
