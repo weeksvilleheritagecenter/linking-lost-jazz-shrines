@@ -1,6 +1,8 @@
+Sort,Description,Complete?
 1,Confirm correct Thelonious Monk (Q71) URI / string used in Omeka S + Sélavy,FALSE
 2,Confirm correct Kenny Dorham (Q55) URI / string used in Omeka S + Sélavy,FALSE
 3,Confirm correct Joe Williams (TBD) URI / string used in Omeka S + Sélavy,FALSE
 4,"Confirm ""Jo Ann Cheatham"" used in Omeka S + Sélavy",FALSE
 5,"Confirm ""Tulivu Donna Cumberbatch"" or should it be ""Tulivu Donna Cumberbatch"" used in Omeka S + Sélavy",FALSE
 6,"Add Linking Lost Jazz Shrines properties to ""1_building_blocks.csv""",FALSE
+7,Create descriptions for properties in Wikibase,FALSE
